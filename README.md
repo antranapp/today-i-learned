@@ -3,7 +3,7 @@
 -   Topics: 8
 -   TILs: 9
 
-<details><summary markdown="span">**android (1)**</summary>
+<details><summary markdown="span">android (1)</summary>
 
 | Date       | Title                                                                                                               |
 | ---------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -11,7 +11,7 @@
 
 </details>
 
-<details><summary markdown="span">**css (1)**</summary>
+<details><summary markdown="span">css (1)</summary>
 
 | Date       | Title                                                                                                                       |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@
 
 </details>
 
-<details><summary markdown="span">**github (1)**</summary>
+<details><summary markdown="span">github (1)</summary>
 
 | Date       | Title                                                                                                 |
 | ---------- | ----------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@
 
 </details>
 
-<details><summary markdown="span">**ios (1)**</summary>
+<details><summary markdown="span">ios (1)</summary>
 
 | Date       | Title                                                                    |
 | ---------- | ------------------------------------------------------------------------ |
@@ -35,7 +35,7 @@
 
 </details>
 
-<details><summary markdown="span">**php (0)**</summary>
+<details><summary markdown="span">php (0)</summary>
 
 | Date | Title |
 | ---- | ----- |
@@ -43,7 +43,7 @@
 
 </details>
 
-<details><summary markdown="span">**shell (1)**</summary>
+<details><summary markdown="span">shell (1)</summary>
 
 | Date       | Title                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
@@ -51,7 +51,7 @@
 
 </details>
 
-<details><summary markdown="span">**tools (2)**</summary>
+<details><summary markdown="span">tools (2)</summary>
 
 | Date       | Title                                                                                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,7 +60,7 @@
 
 </details>
 
-<details><summary markdown="span">**ubuntu (1)**</summary>
+<details><summary markdown="span">ubuntu (1)</summary>
 
 | Date       | Title                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------- |

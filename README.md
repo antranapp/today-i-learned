@@ -1,13 +1,14 @@
 # Today I Learned
 
--   Topics: 8
--   TILs: 9
+-   Topics: 9
+-   TILs: 10
 
-<details><summary markdown="span">android (1)</summary>
+<details><summary markdown="span">android (2)</summary>
 
 | Date       | Title                                                                                                               |
 | ---------- | ------------------------------------------------------------------------------------------------------------------- |
 | 2020-04-29 | [Open source minimalist launcher for Android](android/2020-04-28_capture-images-videos-from-android-devices-adb.md) |
+| 2020-04-22 | [Capture images and videos from android devices with adb](android/2020-04-28_open-source-minimalist-launcher.md)    |
 
 </details>
 
@@ -45,9 +46,9 @@
 
 <details><summary markdown="span">shell (1)</summary>
 
-| Date       | Title                                                                                                |
-| ---------- | ---------------------------------------------------------------------------------------------------- |
-| 2020-04-22 | [How to wait for Ctrl-C in bash](shell/2020-04-21_capture-images-videos-from-android-devices-adb.md) |
+| Date       | Title                                                                          |
+| ---------- | ------------------------------------------------------------------------------ |
+| 2020-04-22 | [How to wait for Ctrl-C in bash](shell/2020-04-21_wait-for-interrupt-linux.md) |
 
 </details>
 
@@ -65,6 +66,14 @@
 | Date       | Title                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------- |
 | 2020-04-15 | [Fingerprint authentication on Ubuntu 18.04](ubuntu/2020-04-14_fingerprint-authentication-on-ubuntu-18-04.md) |
+
+</details>
+
+<details><summary markdown="span">xcode (1)</summary>
+
+| Date       | Title                                                                                                        |
+| ---------- | ------------------------------------------------------------------------------------------------------------ |
+| 2020-04-30 | [Apply all suggested fixes using short keys](xcode/2020-04-30_apply-all-suggested-fixes-using-short-keys.md) |
 
 </details>
 

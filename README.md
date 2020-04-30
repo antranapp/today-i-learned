@@ -51,3 +51,22 @@
 -   [2020-04-15: Fingerprint authentication on Ubuntu 18.04](ubuntu/2020-04-14_fingerprint-authentication-on-ubuntu-18-04.md)
 
 </details>
+
+# Til Reference
+
+```bash
+OVERVIEW: A Swift command-line tool to manage a Today-I-Learned repository
+
+USAGE: til <subcommand>
+
+OPTIONS:
+  -h, --help              Show help information.
+
+SUBCOMMANDS:
+  add                     Add a new Today-I-Learned entry using a default
+                          MarkDown editor.
+  generate-readme         Generate a README.md from the content.
+  deploy                  Deploy the content to the remote repository.
+
+```
+

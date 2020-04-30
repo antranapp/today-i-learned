@@ -1,8 +1,11 @@
-17.04.2020:
+---
+title: Fix gh-pages rejection of new pushes
+createdAt: 2020-04-17T23:10:44Z
+---
 
-- Configure custom domain for gh-pages for static hosting: https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain
+# Fix gh-pages rejection of new pushes
 
-- Fix gh-pages rejection of new pushes: https://stackoverflow.com/questions/52087783/git-push-to-gh-pages-updates-were-rejected
+https://stackoverflow.com/questions/52087783/git-push-to-gh-pages-updates-were-rejected
 
 ````
 git checkout master # you can avoid this line if you are in master...

@@ -54,9 +54,9 @@
 
 <details><summary markdown="span">swift (1)</summary>
 
-| Date       | Title                                                                                                                  |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 2020-05-01 | [Launching a command line tool from an macOS app](swift/2020-05-01_launching-a-command-line-tool-from-an-macos-app.md) |
+| Date       | Title                                                                                                                    |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 2020-05-01 | [Launching a command-line command from a macOS app](swift/2020-05-01_launching-a-command-line-tool-from-an-macos-app.md) |
 
 </details>
 

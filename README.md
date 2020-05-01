@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 10
--   TILs: 11
+-   Topics: 9
+-   TILs: 10
 
 <details><summary markdown="span">android (2)</summary>
 
@@ -49,14 +49,6 @@
 | Date       | Title                                                                          |
 | ---------- | ------------------------------------------------------------------------------ |
 | 2020-04-22 | [How to wait for Ctrl-C in bash](shell/2020-04-21_wait-for-interrupt-linux.md) |
-
-</details>
-
-<details><summary markdown="span">swift (1)</summary>
-
-| Date       | Title                                                                                                                    |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 2020-05-01 | [Launching a command-line command from a macOS app](swift/2020-05-01_launching-a-command-line-tool-from-an-macos-app.md) |
 
 </details>
 

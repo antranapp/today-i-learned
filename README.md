@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 10
--   TILs: 11
+-   Topics: 13
+-   TILs: 15
 
 <details><summary markdown="span">android (2)</summary>
 
@@ -12,11 +12,27 @@
 
 </details>
 
+<details><summary markdown="span">androidstudio (1)</summary>
+
+| Date       | Title                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-05-04 | [Show the current file in the folder structure navigation bar](androidstudio/2020-05-04_show-the-current-file-in-the-folder-structure-navigation-bar.md) |
+
+</details>
+
 <details><summary markdown="span">css (1)</summary>
 
 | Date       | Title                                                                                                                       |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 2020-04-30 | [Handling Long Words and URLs (Forcing Breaks, Hyphenation, Ellipsis, etc)](css/2020-04-29_handling-long-words-and-urls.md) |
+
+</details>
+
+<details><summary markdown="span">flutter (1)</summary>
+
+| Date       | Title                                                                                         |
+| ---------- | --------------------------------------------------------------------------------------------- |
+| 2020-05-01 | [Running a command-line dart script](flutter/2020-05-01_running-a-commandline-dart-script.md) |
 
 </details>
 
@@ -33,6 +49,14 @@
 | Date       | Title                                                                    |
 | ---------- | ------------------------------------------------------------------------ |
 | 2020-04-29 | [iOS development tools for Mac](ios/2020-04-28_ios-development-tools.md) |
+
+</details>
+
+<details><summary markdown="span">mac (1)</summary>
+
+| Date       | Title                                                                        |
+| ---------- | ---------------------------------------------------------------------------- |
+| 2020-05-01 | [Show hidden files in Finder](mac/2020-05-01_show-hidden-files-in-finder.md) |
 
 </details>
 
@@ -60,11 +84,12 @@
 
 </details>
 
-<details><summary markdown="span">tools (2)</summary>
+<details><summary markdown="span">tools (3)</summary>
 
 | Date       | Title                                                                                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-04-24 | [Local file transfer between desktops and mobile devices from terminal with QRCode](tools/2020-04-13_local_file_transfer_desktop_mobile_terminal_qrcode.md)                       |
+| 2020-05-04 | [a little macOS app that records your screen to make a timelapse](tools/2020-05-04_a-little-macos-app-that-records-your-screen-to-make-a-timelapse.md)                            |
 | 2020-04-28 | [A delightful community-driven framework for managing your `zsh` configurations, plugins, themes](tools/2020_04_27_ohmyzsh_community-driven-zsh-plugins-configurations-themes.md) |
 
 </details>

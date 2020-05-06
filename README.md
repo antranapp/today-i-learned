@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 13
--   TILs: 15
+-   TILs: 16
 
 <details><summary markdown="span">android (2)</summary>
 
@@ -36,11 +36,12 @@
 
 </details>
 
-<details><summary markdown="span">github (1)</summary>
+<details><summary markdown="span">github (2)</summary>
 
-| Date       | Title                                                                                                 |
-| ---------- | ----------------------------------------------------------------------------------------------------- |
-| 2020-04-18 | [Fix gh-pages rejection of new pushes](github/2020-04-17_fix_github-pages-rejection-of-new-pushes.md) |
+| Date       | Title                                                                                                                                                                                                     |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-04-18 | [Fix gh-pages rejection of new pushes](github/2020-04-17_fix_github-pages-rejection-of-new-pushes.md)                                                                                                     |
+| 2020-05-06 | [Git Error: Could could not read Username for 'https://github.com': terminal prompts disabled](github/2020-05-06_git-error-could-could-not-read-username-for-httpsgithubcom-terminal-prompts-disabled.md) |
 
 </details>
 

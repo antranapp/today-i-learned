@@ -1,14 +1,14 @@
 # Today I Learned
 
 -   Topics: 13
--   TILs: 16
+-   TILs: 17
 
 <details><summary markdown="span">android (2)</summary>
 
-| Date       | Title                                                                                                               |
-| ---------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2020-04-29 | [Open source minimalist launcher for Android](android/2020-04-28_capture-images-videos-from-android-devices-adb.md) |
-| 2020-04-22 | [Capture images and videos from android devices with adb](android/2020-04-28_open-source-minimalist-launcher.md)    |
+| Date       | Title                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-04-29 | [Capture images and videos from android devices with adb](android/2020-04-28_capture-images-videos-from-android-devices-adb.md) |
+| 2020-04-22 | [Open source minimalist launcher for Android](android/2020-04-28_open-source-minimalist-launcher.md)                            |
 
 </details>
 
@@ -45,11 +45,12 @@
 
 </details>
 
-<details><summary markdown="span">ios (1)</summary>
+<details><summary markdown="span">ios (2)</summary>
 
-| Date       | Title                                                                    |
-| ---------- | ------------------------------------------------------------------------ |
-| 2020-04-29 | [iOS development tools for Mac](ios/2020-04-28_ios-development-tools.md) |
+| Date       | Title                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-04-29 | [iOS development tools for Mac](ios/2020-04-28_ios-development-tools.md)                                                                                                                                                                                                                                                                                                                                |
+| 2020-05-06 | [Workaround about SPM (Swift package manager) deal with Xcode 11.4 and Swift 5.2 with external static libraries. Adding an internal dynamic library to resolve static code duplication error](ios/2020-05-06_workaround-about-spm-swift-package-manager-deal-with-xcode-114-and-swift-52-with-external-static-libraries-adding-an-internal-dynamic-library-to-resolve-static-code-duplication-error.md) |
 
 </details>
 

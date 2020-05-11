@@ -1,5 +1,5 @@
 ---
-title: Capture images and videos from android devices with adb
+title: Open source minimalist launcher for Android
 createdAt: 2020-04-21T23:10:44Z
 ---
 

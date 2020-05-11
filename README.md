@@ -3,6 +3,8 @@
 -   Topics: 13
 -   TILs: 17
 
+## android 
+
 <details><summary markdown="span">android (2)</summary>
 
 | Date       | Title                                                                                                                           |
@@ -12,6 +14,8 @@
 
 </details>
 
+## androidstudio 
+
 <details><summary markdown="span">androidstudio (1)</summary>
 
 | Date       | Title                                                                                                                                                    |
@@ -19,6 +23,8 @@
 | 2020-05-04 | [Show the current file in the folder structure navigation bar](androidstudio/2020-05-04_show-the-current-file-in-the-folder-structure-navigation-bar.md) |
 
 </details>
+
+## css 
 
 <details><summary markdown="span">css (1)</summary>
 
@@ -28,6 +34,8 @@
 
 </details>
 
+## flutter 
+
 <details><summary markdown="span">flutter (1)</summary>
 
 | Date       | Title                                                                                         |
@@ -35,6 +43,8 @@
 | 2020-05-01 | [Running a command-line dart script](flutter/2020-05-01_running-a-commandline-dart-script.md) |
 
 </details>
+
+## github 
 
 <details><summary markdown="span">github (2)</summary>
 
@@ -45,6 +55,8 @@
 
 </details>
 
+## ios 
+
 <details><summary markdown="span">ios (2)</summary>
 
 | Date       | Title                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -54,6 +66,8 @@
 
 </details>
 
+## mac 
+
 <details><summary markdown="span">mac (1)</summary>
 
 | Date       | Title                                                                        |
@@ -61,6 +75,8 @@
 | 2020-05-01 | [Show hidden files in Finder](mac/2020-05-01_show-hidden-files-in-finder.md) |
 
 </details>
+
+## php 
 
 <details><summary markdown="span">php (0)</summary>
 
@@ -70,6 +86,8 @@
 
 </details>
 
+## shell 
+
 <details><summary markdown="span">shell (1)</summary>
 
 | Date       | Title                                                                          |
@@ -78,6 +96,8 @@
 
 </details>
 
+## swift 
+
 <details><summary markdown="span">swift (1)</summary>
 
 | Date       | Title                                                                                                                     |
@@ -85,6 +105,8 @@
 | 2020-05-01 | [Launching a command-line command from a macOS app](swift/2020-05-01_launching-a-commandline-command-from-a-macos-app.md) |
 
 </details>
+
+## tools 
 
 <details><summary markdown="span">tools (3)</summary>
 
@@ -96,6 +118,8 @@
 
 </details>
 
+## ubuntu 
+
 <details><summary markdown="span">ubuntu (1)</summary>
 
 | Date       | Title                                                                                                         |
@@ -103,6 +127,8 @@
 | 2020-04-15 | [Fingerprint authentication on Ubuntu 18.04](ubuntu/2020-04-14_fingerprint-authentication-on-ubuntu-18-04.md) |
 
 </details>
+
+## xcode 
 
 <details><summary markdown="span">xcode (1)</summary>
 

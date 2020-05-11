@@ -11,3 +11,6 @@ https://medium.com/@elye.project/capture-picture-and-record-video-using-adb-5f4c
     - https://stackoverflow.com/questions/36991903/idle-bash-script-until-ctrlc-event-is-logged
     - On Ubuntu, we need to use `INT` instead of `SIGINT`
     - Working script: https://github.com/antranapp/FlutterTODOsTutorial/blob/master/screenrecord.sh
+
+    
+One-line command: https://blog.shvetsov.com/2013/02/grab-android-screenshot-to-computer-via.html

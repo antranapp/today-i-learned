@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 13
--   TILs: 17
+-   Topics: 14
+-   TILs: 21
 
 ## android 
 
@@ -57,12 +57,13 @@
 
 ## ios 
 
-<details><summary markdown="span">ios (2)</summary>
+<details><summary markdown="span">ios (3)</summary>
 
 | Date       | Title                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-04-29 | [iOS development tools for Mac](./ios/2020-04-28_ios-development-tools.md)                                                                                                                                                                                                                                                                                                                                |
 | 2020-05-06 | [Workaround about SPM (Swift package manager) deal with Xcode 11.4 and Swift 5.2 with external static libraries. Adding an internal dynamic library to resolve static code duplication error](./ios/2020-05-06_workaround-about-spm-swift-package-manager-deal-with-xcode-114-and-swift-52-with-external-static-libraries-adding-an-internal-dynamic-library-to-resolve-static-code-duplication-error.md) |
+| 2020-05-12 | [Showing Touch symbol in iOS Simulators](./ios/2020-05-12_showing-touch-symbol-in-ios-simulators.md)                                                                                                                                                                                                                                                                                                      |
 
 </details>
 
@@ -98,11 +99,23 @@
 
 ## swift 
 
-<details><summary markdown="span">swift (1)</summary>
+<details><summary markdown="span">swift (2)</summary>
 
 | Date       | Title                                                                                                                       |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 2020-05-01 | [Launching a command-line command from a macOS app](./swift/2020-05-01_launching-a-commandline-command-from-a-macos-app.md) |
+| 2020-05-12 | [How to add local Swift Package as dependency?](./swift/2020-05-12_how-to-add-local-swift-package-as-dependency.md)         |
+
+</details>
+
+## swiftui 
+
+<details><summary markdown="span">swiftui (2)</summary>
+
+| Date       | Title                                                                    |
+| ---------- | ------------------------------------------------------------------------ |
+| 2020-05-12 | [ForEach with index](./swiftui/2020-05-12_foreach-with-index.md)         |
+| 2020-05-12 | [Hide Seperator in List](./swiftui/2020-05-12_hide-seperator-in-list.md) |
 
 </details>
 

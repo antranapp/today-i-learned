@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 14
--   TILs: 21
+-   TILs: 25
 
 ## android 
 
@@ -110,12 +110,16 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (2)</summary>
+<details><summary markdown="span">swiftui (6)</summary>
 
-| Date       | Title                                                                    |
-| ---------- | ------------------------------------------------------------------------ |
-| 2020-05-12 | [ForEach with index](./swiftui/2020-05-12_foreach-with-index.md)         |
-| 2020-05-12 | [Hide Seperator in List](./swiftui/2020-05-12_hide-seperator-in-list.md) |
+| Date       | Title                                                                                                                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-05-12 | [ForEach with index](./swiftui/2020-05-12_foreach-with-index.md)                                                                                                                                     |
+| 2020-05-12 | [Hide Seperator in List](./swiftui/2020-05-12_hide-seperator-in-list.md)                                                                                                                             |
+| 2020-05-12 | [Preview with Core Data](./swiftui/2020-05-12_preview-with-core-data.md)                                                                                                                             |
+| 2020-05-13 | [Binding value from an ObservableObject](./swiftui/2020-05-13_binding-value-from-an-observableobject.md)                                                                                             |
+| 2020-05-13 | [HSHostingController, easily present fullscreen modals, safari, email, etc from SwiftUI](./swiftui/2020-05-13_hshostingcontroller-easily-present-fullscreen-modals-safari-email-etc-from-swiftui.md) |
+| 2020-05-13 | [SwiftUI: How to implement a custom init with @Binding variables](./swiftui/2020-05-13_swiftui-how-to-implement-a-custom-init-with-binding-variables.md)                                             |
 
 </details>
 

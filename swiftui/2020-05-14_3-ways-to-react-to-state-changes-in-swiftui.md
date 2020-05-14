@@ -12,16 +12,9 @@ createdAt: 2020-05-14T09:37:47Z
 
 According to Apple’s Developer Documentation, this callback is available on the inits of three controls: TextField, Slider, and Stepper.
 
-```swift
-//TextField:
-init(_:text:onEditingChanged:onCommit:)
-
-//Slider:
-init(value:in:onEditingChanged:)
-
-//Stepper:
-init(_:onIncrement:onDecrement:onEditingChanged:)
-```
+- **TextField:** `init(_:text:onEditingChanged:onCommit:)`
+- **Slider:** `init(value:in:onEditingChanged:)`
+- **Stepper:** `init(_:onIncrement:onDecrement:onEditingChanged:)`
 
 ```swift
 @State var textValue: String = "Hello"

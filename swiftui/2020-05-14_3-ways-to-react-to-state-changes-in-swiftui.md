@@ -13,13 +13,13 @@ createdAt: 2020-05-14T09:37:47Z
 According to Apple’s Developer Documentation, this callback is available on the inits of three controls: TextField, Slider, and Stepper.
 
 ```swift
-TextField:
+//TextField:
 init(_:text:onEditingChanged:onCommit:)
 
-Slider:
+//Slider:
 init(value:in:onEditingChanged:)
 
-Stepper:
+//Stepper:
 init(_:onIncrement:onDecrement:onEditingChanged:)
 ```
 

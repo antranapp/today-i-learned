@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 16
--   TILs: 36
+-   Topics: 17
+-   TILs: 40
 
 ## android 
 
@@ -77,6 +77,16 @@
 
 </details>
 
+## minimalist 
+
+<details><summary markdown="span">minimalist (1)</summary>
+
+| Date       | Title                                                                                                       |
+| ---------- | ----------------------------------------------------------------------------------------------------------- |
+| 2020-05-14 | [Why Small Habits Make a Big Difference](./minimalist/2020-05-14_why-small-habits-make-a-big-difference.md) |
+
+</details>
+
 ## oop 
 
 <details><summary markdown="span">oop (2)</summary>
@@ -100,11 +110,12 @@
 
 ## security 
 
-<details><summary markdown="span">security (1)</summary>
+<details><summary markdown="span">security (2)</summary>
 
-| Date       | Title                                                              |
-| ---------- | ------------------------------------------------------------------ |
-| 2020-05-14 | [SSL Pinning with Alomafire](./security/2020-05-14_ssl-pinning.md) |
+| Date       | Title                                                                               |
+| ---------- | ----------------------------------------------------------------------------------- |
+| 2020-05-14 | [SSL Pinning with URLSession](./security/2020-05-14_ssl-pinning-with-urlsession.md) |
+| 2020-05-14 | [SSL Pinning with Alomafire](./security/2020-05-14_ssl-pinning.md)                  |
 
 </details>
 
@@ -131,7 +142,7 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (6)</summary>
+<details><summary markdown="span">swiftui (7)</summary>
 
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -141,6 +152,7 @@
 | 2020-05-13 | [Binding value from an ObservableObject](./swiftui/2020-05-13_binding-value-from-an-observableobject.md)                                                                                             |
 | 2020-05-13 | [HSHostingController, easily present fullscreen modals, safari, email, etc from SwiftUI](./swiftui/2020-05-13_hshostingcontroller-easily-present-fullscreen-modals-safari-email-etc-from-swiftui.md) |
 | 2020-05-13 | [SwiftUI: How to implement a custom init with @Binding variables](./swiftui/2020-05-13_swiftui-how-to-implement-a-custom-init-with-binding-variables.md)                                             |
+| 2020-05-14 | [3 Ways to React to @State Changes in SwiftUI](./swiftui/2020-05-14_3-ways-to-react-to-state-changes-in-swiftui.md)                                                                                  |
 
 </details>
 

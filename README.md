@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 17
--   TILs: 40
+-   TILs: 42
 
 ## android 
 
@@ -142,7 +142,7 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (7)</summary>
+<details><summary markdown="span">swiftui (9)</summary>
 
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -153,6 +153,8 @@
 | 2020-05-13 | [HSHostingController, easily present fullscreen modals, safari, email, etc from SwiftUI](./swiftui/2020-05-13_hshostingcontroller-easily-present-fullscreen-modals-safari-email-etc-from-swiftui.md) |
 | 2020-05-13 | [SwiftUI: How to implement a custom init with @Binding variables](./swiftui/2020-05-13_swiftui-how-to-implement-a-custom-init-with-binding-variables.md)                                             |
 | 2020-05-14 | [3 Ways to React to @State Changes in SwiftUI](./swiftui/2020-05-14_3-ways-to-react-to-state-changes-in-swiftui.md)                                                                                  |
+| 2020-05-14 | [Disable user interaction on SwiftUI View](./swiftui/2020-05-14_disable-user-interaction-on-swiftui-view.md)                                                                                         |
+| 2020-05-14 | [How to instantiate PreviewProvider when View requires @Binding in initializer](./swiftui/2020-05-14_how-to-instantiate-previewprovider-when-view-requires-binding-in-initializer.md)                |
 
 </details>
 

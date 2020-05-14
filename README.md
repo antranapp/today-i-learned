@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 14
--   TILs: 25
+-   Topics: 16
+-   TILs: 36
 
 ## android 
 
@@ -77,6 +77,17 @@
 
 </details>
 
+## oop 
+
+<details><summary markdown="span">oop (2)</summary>
+
+| Date       | Title                                                                                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-05-14 | [Domain-Driven Design](./oop/2020-05-14_domaindriven-design.md)                                                                                                   |
+| 2020-05-14 | [Object-Oriented Analysis and Design: What is it and how do you use it?](./oop/2020-05-14_objectoriented-analysis-and-design-what-is-it-and-how-do-you-use-it.md) |
+
+</details>
+
 ## php 
 
 <details><summary markdown="span">php (0)</summary>
@@ -84,6 +95,16 @@
 | Date | Title |
 | ---- | ----- |
 
+
+</details>
+
+## security 
+
+<details><summary markdown="span">security (1)</summary>
+
+| Date       | Title                                                              |
+| ---------- | ------------------------------------------------------------------ |
+| 2020-05-14 | [SSL Pinning with Alomafire](./security/2020-05-14_ssl-pinning.md) |
 
 </details>
 
@@ -147,11 +168,12 @@
 
 ## xcode 
 
-<details><summary markdown="span">xcode (1)</summary>
+<details><summary markdown="span">xcode (2)</summary>
 
-| Date       | Title                                                                                                          |
-| ---------- | -------------------------------------------------------------------------------------------------------------- |
-| 2020-04-30 | [Apply all suggested fixes using short keys](./xcode/2020-04-30_apply-all-suggested-fixes-using-short-keys.md) |
+| Date       | Title                                                                                                              |
+| ---------- | ------------------------------------------------------------------------------------------------------------------ |
+| 2020-04-30 | [Apply all suggested fixes using short keys](./xcode/2020-04-30_apply-all-suggested-fixes-using-short-keys.md)     |
+| 2020-05-13 | [Xcode 11 iOS 13 simulator freeze UITextField](./xcode/2020-05-13_xcode-11-ios-13-simulator-freeze-uitextfield.md) |
 
 </details>
 

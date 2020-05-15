@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 17
--   TILs: 42
+-   TILs: 44
 
 ## android 
 
@@ -142,7 +142,7 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (9)</summary>
+<details><summary markdown="span">swiftui (11)</summary>
 
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -155,6 +155,8 @@
 | 2020-05-14 | [3 Ways to React to @State Changes in SwiftUI](./swiftui/2020-05-14_3-ways-to-react-to-state-changes-in-swiftui.md)                                                                                  |
 | 2020-05-14 | [Disable user interaction on SwiftUI View](./swiftui/2020-05-14_disable-user-interaction-on-swiftui-view.md)                                                                                         |
 | 2020-05-14 | [How to instantiate PreviewProvider when View requires @Binding in initializer](./swiftui/2020-05-14_how-to-instantiate-previewprovider-when-view-requires-binding-in-initializer.md)                |
+| 2020-05-15 | [HStack fill whole width with equal spacing](./swiftui/2020-05-15_hstack-fill-whole-width-with-equal-spacing.md)                                                                                     |
+| 2020-05-15 | [Text aligment with custom frame](./swiftui/2020-05-15_text-aligment-with-custom-frame.md)                                                                                                           |
 
 </details>
 

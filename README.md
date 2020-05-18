@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 17
--   TILs: 44
+-   Topics: 18
+-   TILs: 50
 
 ## android 
 
@@ -57,13 +57,15 @@
 
 ## ios 
 
-<details><summary markdown="span">ios (3)</summary>
+<details><summary markdown="span">ios (5)</summary>
 
 | Date       | Title                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-04-29 | [iOS development tools for Mac](./ios/2020-04-28_ios-development-tools.md)                                                                                                                                                                                                                                                                                                                                |
 | 2020-05-06 | [Workaround about SPM (Swift package manager) deal with Xcode 11.4 and Swift 5.2 with external static libraries. Adding an internal dynamic library to resolve static code duplication error](./ios/2020-05-06_workaround-about-spm-swift-package-manager-deal-with-xcode-114-and-swift-52-with-external-static-libraries-adding-an-internal-dynamic-library-to-resolve-static-code-duplication-error.md) |
 | 2020-05-12 | [Showing Touch symbol in iOS Simulators](./ios/2020-05-12_showing-touch-symbol-in-ios-simulators.md)                                                                                                                                                                                                                                                                                                      |
+| 2020-05-18 | [disable iOS simulator 'connect hardware keyboard' programmatically](./ios/2020-05-18_disable-ios-simulator-connect-hardware-keyboard-programmatically.md)                                                                                                                                                                                                                                                |
+| 2020-05-18 | [iOS XCUITest - Simulate hardware keyboard return key](./ios/2020-05-18_ios-xcuitest-simulate-hardware-keyboard-return-key.md)                                                                                                                                                                                                                                                                            |
 
 </details>
 
@@ -142,7 +144,7 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (11)</summary>
+<details><summary markdown="span">swiftui (14)</summary>
 
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -157,6 +159,9 @@
 | 2020-05-14 | [How to instantiate PreviewProvider when View requires @Binding in initializer](./swiftui/2020-05-14_how-to-instantiate-previewprovider-when-view-requires-binding-in-initializer.md)                |
 | 2020-05-15 | [HStack fill whole width with equal spacing](./swiftui/2020-05-15_hstack-fill-whole-width-with-equal-spacing.md)                                                                                     |
 | 2020-05-15 | [Text aligment with custom frame](./swiftui/2020-05-15_text-aligment-with-custom-frame.md)                                                                                                           |
+| 2020-05-18 | [How do I create a multiline TextField in SwiftUI?](./swiftui/2020-05-18_how-do-i-create-a-multiline-textfield-in-swiftui.md)                                                                        |
+| 2020-05-18 | [How to make a view dismiss itself](./swiftui/2020-05-18_how-to-make-a-view-dismiss-itself.md)                                                                                                       |
+| 2020-05-18 | [UITextView wrapper for SwiftUI](./swiftui/2020-05-18_uitextview-wrapper-for-swiftui.md)                                                                                                             |
 
 </details>
 
@@ -179,6 +184,16 @@
 | Date       | Title                                                                                                           |
 | ---------- | --------------------------------------------------------------------------------------------------------------- |
 | 2020-04-15 | [Fingerprint authentication on Ubuntu 18.04](./ubuntu/2020-04-14_fingerprint-authentication-on-ubuntu-18-04.md) |
+
+</details>
+
+## vim 
+
+<details><summary markdown="span">vim (1)</summary>
+
+| Date       | Title                                                                           |
+| ---------- | ------------------------------------------------------------------------------- |
+| 2020-05-18 | [Show/Hide line number in vim](./vim/2020-05-18_showhide-line-number-in-vim.md) |
 
 </details>
 

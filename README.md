@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 18
--   TILs: 53
+-   Topics: 20
+-   TILs: 55
 
 ## android 
 
@@ -21,6 +21,16 @@
 | Date       | Title                                                                                                                                                      |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-05-04 | [Show the current file in the folder structure navigation bar](./androidstudio/2020-05-04_show-the-current-file-in-the-folder-structure-navigation-bar.md) |
+
+</details>
+
+## coredata 
+
+<details><summary markdown="span">coredata (1)</summary>
+
+| Date       | Title                                                                                                                                                                                                                             |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-05-19 | [How to filter using NSPredicate based on if the to many relationship set contains a specific value](./coredata/2020-05-19_how-to-filter-using-nspredicate-based-on-if-the-to-many-relationship-set-contains-a-specific-value.md) |
 
 </details>
 
@@ -77,6 +87,16 @@
 | Date       | Title                                                                          |
 | ---------- | ------------------------------------------------------------------------------ |
 | 2020-05-01 | [Show hidden files in Finder](./mac/2020-05-01_show-hidden-files-in-finder.md) |
+
+</details>
+
+## macos 
+
+<details><summary markdown="span">macos (1)</summary>
+
+| Date       | Title                                                                                                                                                                                                                                                                                                     |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-05-19 | [DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.](./macos/2020-05-19_db-browser-for-sqlite-db4s-is-a-high-quality-visual-open-source-tool-to-create-design-and-edit-database-files-compatible-with-sqlite.md) |
 
 </details>
 

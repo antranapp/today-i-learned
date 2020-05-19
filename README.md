@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 18
--   TILs: 50
+-   TILs: 53
 
 ## android 
 
@@ -57,7 +57,7 @@
 
 ## ios 
 
-<details><summary markdown="span">ios (5)</summary>
+<details><summary markdown="span">ios (6)</summary>
 
 | Date       | Title                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,6 +65,7 @@
 | 2020-05-06 | [Workaround about SPM (Swift package manager) deal with Xcode 11.4 and Swift 5.2 with external static libraries. Adding an internal dynamic library to resolve static code duplication error](./ios/2020-05-06_workaround-about-spm-swift-package-manager-deal-with-xcode-114-and-swift-52-with-external-static-libraries-adding-an-internal-dynamic-library-to-resolve-static-code-duplication-error.md) |
 | 2020-05-12 | [Showing Touch symbol in iOS Simulators](./ios/2020-05-12_showing-touch-symbol-in-ios-simulators.md)                                                                                                                                                                                                                                                                                                      |
 | 2020-05-18 | [disable iOS simulator 'connect hardware keyboard' programmatically](./ios/2020-05-18_disable-ios-simulator-connect-hardware-keyboard-programmatically.md)                                                                                                                                                                                                                                                |
+| 2020-05-18 | [How do you manage and use “Many to many” core data relationships?](./ios/2020-05-18_how-do-you-manage-and-use-many-to-many-core-data-relationships.md)                                                                                                                                                                                                                                                   |
 | 2020-05-18 | [iOS XCUITest - Simulate hardware keyboard return key](./ios/2020-05-18_ios-xcuitest-simulate-hardware-keyboard-return-key.md)                                                                                                                                                                                                                                                                            |
 
 </details>
@@ -144,7 +145,7 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (14)</summary>
+<details><summary markdown="span">swiftui (16)</summary>
 
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -160,7 +161,9 @@
 | 2020-05-15 | [HStack fill whole width with equal spacing](./swiftui/2020-05-15_hstack-fill-whole-width-with-equal-spacing.md)                                                                                     |
 | 2020-05-15 | [Text aligment with custom frame](./swiftui/2020-05-15_text-aligment-with-custom-frame.md)                                                                                                           |
 | 2020-05-18 | [How do I create a multiline TextField in SwiftUI?](./swiftui/2020-05-18_how-do-i-create-a-multiline-textfield-in-swiftui.md)                                                                        |
+| 2020-05-18 | [How to detect live changes on TextField in SwiftUI?](./swiftui/2020-05-18_how-to-detect-live-changes-on-textfield-in-swiftui.md)                                                                    |
 | 2020-05-18 | [How to make a view dismiss itself](./swiftui/2020-05-18_how-to-make-a-view-dismiss-itself.md)                                                                                                       |
+| 2020-05-18 | [How to use SwiftUI in Swift Playgrounds](./swiftui/2020-05-18_how-to-use-swiftui-in-swift-playgrounds.md)                                                                                           |
 | 2020-05-18 | [UITextView wrapper for SwiftUI](./swiftui/2020-05-18_uitextview-wrapper-for-swiftui.md)                                                                                                             |
 
 </details>

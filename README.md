@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 20
--   TILs: 55
+-   Topics: 21
+-   TILs: 73
 
 ## android 
 
@@ -24,13 +24,25 @@
 
 </details>
 
+## combine 
+
+<details><summary markdown="span">combine (1)</summary>
+
+| Date       | Title                                                                                                                                      |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2020-06-04 | [Set a given Publishers Failure type to Never in Combine](./combine/2020-06-04_set-a-given-publishers-failure-type-to-never-in-combine.md) |
+
+</details>
+
 ## coredata 
 
-<details><summary markdown="span">coredata (1)</summary>
+<details><summary markdown="span">coredata (3)</summary>
 
 | Date       | Title                                                                                                                                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-05-19 | [How to filter using NSPredicate based on if the to many relationship set contains a specific value](./coredata/2020-05-19_how-to-filter-using-nspredicate-based-on-if-the-to-many-relationship-set-contains-a-specific-value.md) |
+| 2020-05-20 | [Storing states in CoreData with enums](./coredata/2020-05-20_storing-states-in-coredata-with-enums.md)                                                                                                                           |
+| 2020-05-21 | [NSPredicate case-insensitive matching on to-many relationship](./coredata/2020-05-21_nspredicate-caseinsensitive-matching-on-tomany-relationship.md)                                                                             |
 
 </details>
 
@@ -56,18 +68,19 @@
 
 ## github 
 
-<details><summary markdown="span">github (2)</summary>
+<details><summary markdown="span">github (3)</summary>
 
 | Date       | Title                                                                                                                                                                                                       |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-04-18 | [Fix gh-pages rejection of new pushes](./github/2020-04-17_fix_github-pages-rejection-of-new-pushes.md)                                                                                                     |
 | 2020-05-06 | [Git Error: Could could not read Username for 'https://github.com': terminal prompts disabled](./github/2020-05-06_git-error-could-could-not-read-username-for-httpsgithubcom-terminal-prompts-disabled.md) |
+| 2020-05-28 | [Cancel Workflow Action](./github/2020-05-28_cancel-workflow-action.md)                                                                                                                                     |
 
 </details>
 
 ## ios 
 
-<details><summary markdown="span">ios (6)</summary>
+<details><summary markdown="span">ios (9)</summary>
 
 | Date       | Title                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -77,6 +90,9 @@
 | 2020-05-18 | [disable iOS simulator 'connect hardware keyboard' programmatically](./ios/2020-05-18_disable-ios-simulator-connect-hardware-keyboard-programmatically.md)                                                                                                                                                                                                                                                |
 | 2020-05-18 | [How do you manage and use “Many to many” core data relationships?](./ios/2020-05-18_how-do-you-manage-and-use-many-to-many-core-data-relationships.md)                                                                                                                                                                                                                                                   |
 | 2020-05-18 | [iOS XCUITest - Simulate hardware keyboard return key](./ios/2020-05-18_ios-xcuitest-simulate-hardware-keyboard-return-key.md)                                                                                                                                                                                                                                                                            |
+| 2020-05-22 | [Enable network mocks and more in UI Tests](./ios/2020-05-22_enable-network-mocks-and-more-in-ui-tests.md)                                                                                                                                                                                                                                                                                                |
+| 2020-05-22 | [UI Test deleting text in text field](./ios/2020-05-22_ui-test-deleting-text-in-text-field.md)                                                                                                                                                                                                                                                                                                            |
+| 2020-05-25 | [UITests how to test screen edge pan gestures?](./ios/2020-05-25_uitests-how-to-test-screen-edge-pan-gestures.md)                                                                                                                                                                                                                                                                                         |
 
 </details>
 
@@ -154,18 +170,21 @@
 
 ## swift 
 
-<details><summary markdown="span">swift (2)</summary>
+<details><summary markdown="span">swift (5)</summary>
 
-| Date       | Title                                                                                                                       |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 2020-05-01 | [Launching a command-line command from a macOS app](./swift/2020-05-01_launching-a-commandline-command-from-a-macos-app.md) |
-| 2020-05-12 | [How to add local Swift Package as dependency?](./swift/2020-05-12_how-to-add-local-swift-package-as-dependency.md)         |
+| Date       | Title                                                                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-05-01 | [Launching a command-line command from a macOS app](./swift/2020-05-01_launching-a-commandline-command-from-a-macos-app.md)                                                     |
+| 2020-05-12 | [How to add local Swift Package as dependency?](./swift/2020-05-12_how-to-add-local-swift-package-as-dependency.md)                                                             |
+| 2020-05-21 | [conversion from NSTimeInterval to hour,minutes,seconds,milliseconds in swift](./swift/2020-05-21_conversion-from-nstimeinterval-to-hourminutessecondsmilliseconds-in-swift.md) |
+| 2020-05-22 | [How to sleep for few milliseconds in swift?](./swift/2020-05-22_how-to-sleep-for-few-milliseconds-in-swift.md)                                                                 |
+| 2020-05-28 | [Push View programmatically in callback, SwiftUI](./swift/2020-05-28_push-view-programmatically-in-callback-swiftui.md)                                                         |
 
 </details>
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (16)</summary>
+<details><summary markdown="span">swiftui (24)</summary>
 
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -185,6 +204,14 @@
 | 2020-05-18 | [How to make a view dismiss itself](./swiftui/2020-05-18_how-to-make-a-view-dismiss-itself.md)                                                                                                       |
 | 2020-05-18 | [How to use SwiftUI in Swift Playgrounds](./swiftui/2020-05-18_how-to-use-swiftui-in-swift-playgrounds.md)                                                                                           |
 | 2020-05-18 | [UITextView wrapper for SwiftUI](./swiftui/2020-05-18_uitextview-wrapper-for-swiftui.md)                                                                                                             |
+| 2020-05-24 | [How to show complete List when keyboard is showing up in SwiftUI](./swiftui/2020-05-24_how-to-show-complete-list-when-keyboard-is-showing-up-in-swiftui.md)                                         |
+| 2020-05-27 | [How to hide the status bar in SwiftUI](./swiftui/2020-05-27_how-to-hide-the-status-bar-in-swiftui.md)                                                                                               |
+| 2020-05-27 | [Make a VStack fill the screen in SwiftUI](./swiftui/2020-05-27_make-a-vstack-fill-the-screen-in-swiftui.md)                                                                                         |
+| 2020-05-28 | [Fixed: Multiple sheet(isPresented:) doesn't work in SwiftUI](./swiftui/2020-05-28_fixed-multiple-sheetispresented-doesnt-work-in-swiftui.md)                                                        |
+| 2020-05-28 | [Fixed: SwiftUI picker in form repositioning after navigation](./swiftui/2020-05-28_fixed-swiftui-picker-in-form-repositioning-after-navigation.md)                                                  |
+| 2020-05-28 | [Simple SwiftUI Arc endAngle animation](./swiftui/2020-05-28_simple-swiftui-arc-endangle-animation.md)                                                                                               |
+| 2020-05-29 | [Dismiss view with swipe on iOS 13 XCUITest](./swiftui/2020-05-29_dismiss-view-with-swipe-on-ios-13-xcuitest.md)                                                                                     |
+| 2020-06-03 | [Add a border with cornerRadius to an Image in SwiftUI](./swiftui/2020-06-03_add-a-border-with-cornerradius-to-an-image-in-swiftui.md)                                                               |
 
 </details>
 

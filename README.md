@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 21
--   TILs: 73
+-   TILs: 74
 
 ## android 
 
@@ -40,9 +40,9 @@
 
 | Date       | Title                                                                                                                                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2020-05-19 | [How to filter using NSPredicate based on if the to many relationship set contains a specific value](./coredata/2020-05-19_how-to-filter-using-nspredicate-based-on-if-the-to-many-relationship-set-contains-a-specific-value.md) |
+| 2020-05-20 | [How to filter using NSPredicate based on if the to many relationship set contains a specific value](./coredata/2020-05-19_how-to-filter-using-nspredicate-based-on-if-the-to-many-relationship-set-contains-a-specific-value.md) |
 | 2020-05-20 | [Storing states in CoreData with enums](./coredata/2020-05-20_storing-states-in-coredata-with-enums.md)                                                                                                                           |
-| 2020-05-21 | [NSPredicate case-insensitive matching on to-many relationship](./coredata/2020-05-21_nspredicate-caseinsensitive-matching-on-tomany-relationship.md)                                                                             |
+| 2020-05-22 | [NSPredicate case-insensitive matching on to-many relationship](./coredata/2020-05-21_nspredicate-caseinsensitive-matching-on-tomany-relationship.md)                                                                             |
 
 </details>
 
@@ -62,7 +62,7 @@
 
 | Date       | Title                                                                                           |
 | ---------- | ----------------------------------------------------------------------------------------------- |
-| 2020-05-01 | [Running a command-line dart script](./flutter/2020-05-01_running-a-commandline-dart-script.md) |
+| 2020-05-02 | [Running a command-line dart script](./flutter/2020-05-01_running-a-commandline-dart-script.md) |
 
 </details>
 
@@ -85,14 +85,24 @@
 | Date       | Title                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-04-29 | [iOS development tools for Mac](./ios/2020-04-28_ios-development-tools.md)                                                                                                                                                                                                                                                                                                                                |
-| 2020-05-06 | [Workaround about SPM (Swift package manager) deal with Xcode 11.4 and Swift 5.2 with external static libraries. Adding an internal dynamic library to resolve static code duplication error](./ios/2020-05-06_workaround-about-spm-swift-package-manager-deal-with-xcode-114-and-swift-52-with-external-static-libraries-adding-an-internal-dynamic-library-to-resolve-static-code-duplication-error.md) |
+| 2020-05-07 | [Workaround about SPM (Swift package manager) deal with Xcode 11.4 and Swift 5.2 with external static libraries. Adding an internal dynamic library to resolve static code duplication error](./ios/2020-05-06_workaround-about-spm-swift-package-manager-deal-with-xcode-114-and-swift-52-with-external-static-libraries-adding-an-internal-dynamic-library-to-resolve-static-code-duplication-error.md) |
 | 2020-05-12 | [Showing Touch symbol in iOS Simulators](./ios/2020-05-12_showing-touch-symbol-in-ios-simulators.md)                                                                                                                                                                                                                                                                                                      |
 | 2020-05-18 | [disable iOS simulator 'connect hardware keyboard' programmatically](./ios/2020-05-18_disable-ios-simulator-connect-hardware-keyboard-programmatically.md)                                                                                                                                                                                                                                                |
-| 2020-05-18 | [How do you manage and use “Many to many” core data relationships?](./ios/2020-05-18_how-do-you-manage-and-use-many-to-many-core-data-relationships.md)                                                                                                                                                                                                                                                   |
+| 2020-05-19 | [How do you manage and use “Many to many” core data relationships?](./ios/2020-05-18_how-do-you-manage-and-use-many-to-many-core-data-relationships.md)                                                                                                                                                                                                                                                   |
 | 2020-05-18 | [iOS XCUITest - Simulate hardware keyboard return key](./ios/2020-05-18_ios-xcuitest-simulate-hardware-keyboard-return-key.md)                                                                                                                                                                                                                                                                            |
 | 2020-05-22 | [Enable network mocks and more in UI Tests](./ios/2020-05-22_enable-network-mocks-and-more-in-ui-tests.md)                                                                                                                                                                                                                                                                                                |
 | 2020-05-22 | [UI Test deleting text in text field](./ios/2020-05-22_ui-test-deleting-text-in-text-field.md)                                                                                                                                                                                                                                                                                                            |
-| 2020-05-25 | [UITests how to test screen edge pan gestures?](./ios/2020-05-25_uitests-how-to-test-screen-edge-pan-gestures.md)                                                                                                                                                                                                                                                                                         |
+| 2020-05-26 | [UITests how to test screen edge pan gestures?](./ios/2020-05-25_uitests-how-to-test-screen-edge-pan-gestures.md)                                                                                                                                                                                                                                                                                         |
+
+</details>
+
+## jupyter 
+
+<details><summary markdown="span">jupyter (1)</summary>
+
+| Date       | Title                                                                                                                                |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2021-01-10 | [Manage widgets in jupyter notebooks using Ipywidgets](./jupyter/2021-01-10_manage-widgets-in-jupyter-notebooks-using-ipywidgets.md) |
 
 </details>
 
@@ -102,7 +112,7 @@
 
 | Date       | Title                                                                          |
 | ---------- | ------------------------------------------------------------------------------ |
-| 2020-05-01 | [Show hidden files in Finder](./mac/2020-05-01_show-hidden-files-in-finder.md) |
+| 2020-05-02 | [Show hidden files in Finder](./mac/2020-05-01_show-hidden-files-in-finder.md) |
 
 </details>
 
@@ -137,16 +147,6 @@
 
 </details>
 
-## php 
-
-<details><summary markdown="span">php (0)</summary>
-
-| Date | Title |
-| ---- | ----- |
-
-
-</details>
-
 ## security 
 
 <details><summary markdown="span">security (2)</summary>
@@ -175,8 +175,8 @@
 | Date       | Title                                                                                                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-05-01 | [Launching a command-line command from a macOS app](./swift/2020-05-01_launching-a-commandline-command-from-a-macos-app.md)                                                     |
-| 2020-05-12 | [How to add local Swift Package as dependency?](./swift/2020-05-12_how-to-add-local-swift-package-as-dependency.md)                                                             |
-| 2020-05-21 | [conversion from NSTimeInterval to hour,minutes,seconds,milliseconds in swift](./swift/2020-05-21_conversion-from-nstimeinterval-to-hourminutessecondsmilliseconds-in-swift.md) |
+| 2020-05-13 | [How to add local Swift Package as dependency?](./swift/2020-05-12_how-to-add-local-swift-package-as-dependency.md)                                                             |
+| 2020-05-22 | [conversion from NSTimeInterval to hour,minutes,seconds,milliseconds in swift](./swift/2020-05-21_conversion-from-nstimeinterval-to-hourminutessecondsmilliseconds-in-swift.md) |
 | 2020-05-22 | [How to sleep for few milliseconds in swift?](./swift/2020-05-22_how-to-sleep-for-few-milliseconds-in-swift.md)                                                                 |
 | 2020-05-28 | [Push View programmatically in callback, SwiftUI](./swift/2020-05-28_push-view-programmatically-in-callback-swiftui.md)                                                         |
 
@@ -189,22 +189,22 @@
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-05-12 | [ForEach with index](./swiftui/2020-05-12_foreach-with-index.md)                                                                                                                                     |
-| 2020-05-12 | [Hide Seperator in List](./swiftui/2020-05-12_hide-seperator-in-list.md)                                                                                                                             |
-| 2020-05-12 | [Preview with Core Data](./swiftui/2020-05-12_preview-with-core-data.md)                                                                                                                             |
+| 2020-05-13 | [Hide Seperator in List](./swiftui/2020-05-12_hide-seperator-in-list.md)                                                                                                                             |
+| 2020-05-13 | [Preview with Core Data](./swiftui/2020-05-12_preview-with-core-data.md)                                                                                                                             |
 | 2020-05-13 | [Binding value from an ObservableObject](./swiftui/2020-05-13_binding-value-from-an-observableobject.md)                                                                                             |
 | 2020-05-13 | [HSHostingController, easily present fullscreen modals, safari, email, etc from SwiftUI](./swiftui/2020-05-13_hshostingcontroller-easily-present-fullscreen-modals-safari-email-etc-from-swiftui.md) |
 | 2020-05-13 | [SwiftUI: How to implement a custom init with @Binding variables](./swiftui/2020-05-13_swiftui-how-to-implement-a-custom-init-with-binding-variables.md)                                             |
 | 2020-05-14 | [3 Ways to React to @State Changes in SwiftUI](./swiftui/2020-05-14_3-ways-to-react-to-state-changes-in-swiftui.md)                                                                                  |
-| 2020-05-14 | [Disable user interaction on SwiftUI View](./swiftui/2020-05-14_disable-user-interaction-on-swiftui-view.md)                                                                                         |
-| 2020-05-14 | [How to instantiate PreviewProvider when View requires @Binding in initializer](./swiftui/2020-05-14_how-to-instantiate-previewprovider-when-view-requires-binding-in-initializer.md)                |
+| 2020-05-15 | [Disable user interaction on SwiftUI View](./swiftui/2020-05-14_disable-user-interaction-on-swiftui-view.md)                                                                                         |
+| 2020-05-15 | [How to instantiate PreviewProvider when View requires @Binding in initializer](./swiftui/2020-05-14_how-to-instantiate-previewprovider-when-view-requires-binding-in-initializer.md)                |
 | 2020-05-15 | [HStack fill whole width with equal spacing](./swiftui/2020-05-15_hstack-fill-whole-width-with-equal-spacing.md)                                                                                     |
 | 2020-05-15 | [Text aligment with custom frame](./swiftui/2020-05-15_text-aligment-with-custom-frame.md)                                                                                                           |
 | 2020-05-18 | [How do I create a multiline TextField in SwiftUI?](./swiftui/2020-05-18_how-do-i-create-a-multiline-textfield-in-swiftui.md)                                                                        |
-| 2020-05-18 | [How to detect live changes on TextField in SwiftUI?](./swiftui/2020-05-18_how-to-detect-live-changes-on-textfield-in-swiftui.md)                                                                    |
+| 2020-05-19 | [How to detect live changes on TextField in SwiftUI?](./swiftui/2020-05-18_how-to-detect-live-changes-on-textfield-in-swiftui.md)                                                                    |
 | 2020-05-18 | [How to make a view dismiss itself](./swiftui/2020-05-18_how-to-make-a-view-dismiss-itself.md)                                                                                                       |
-| 2020-05-18 | [How to use SwiftUI in Swift Playgrounds](./swiftui/2020-05-18_how-to-use-swiftui-in-swift-playgrounds.md)                                                                                           |
+| 2020-05-19 | [How to use SwiftUI in Swift Playgrounds](./swiftui/2020-05-18_how-to-use-swiftui-in-swift-playgrounds.md)                                                                                           |
 | 2020-05-18 | [UITextView wrapper for SwiftUI](./swiftui/2020-05-18_uitextview-wrapper-for-swiftui.md)                                                                                                             |
-| 2020-05-24 | [How to show complete List when keyboard is showing up in SwiftUI](./swiftui/2020-05-24_how-to-show-complete-list-when-keyboard-is-showing-up-in-swiftui.md)                                         |
+| 2020-05-25 | [How to show complete List when keyboard is showing up in SwiftUI](./swiftui/2020-05-24_how-to-show-complete-list-when-keyboard-is-showing-up-in-swiftui.md)                                         |
 | 2020-05-27 | [How to hide the status bar in SwiftUI](./swiftui/2020-05-27_how-to-hide-the-status-bar-in-swiftui.md)                                                                                               |
 | 2020-05-27 | [Make a VStack fill the screen in SwiftUI](./swiftui/2020-05-27_make-a-vstack-fill-the-screen-in-swiftui.md)                                                                                         |
 | 2020-05-28 | [Fixed: Multiple sheet(isPresented:) doesn't work in SwiftUI](./swiftui/2020-05-28_fixed-multiple-sheetispresented-doesnt-work-in-swiftui.md)                                                        |
@@ -253,8 +253,8 @@
 
 | Date       | Title                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------ |
-| 2020-04-30 | [Apply all suggested fixes using short keys](./xcode/2020-04-30_apply-all-suggested-fixes-using-short-keys.md)     |
-| 2020-05-13 | [Xcode 11 iOS 13 simulator freeze UITextField](./xcode/2020-05-13_xcode-11-ios-13-simulator-freeze-uitextfield.md) |
+| 2020-05-01 | [Apply all suggested fixes using short keys](./xcode/2020-04-30_apply-all-suggested-fixes-using-short-keys.md)     |
+| 2020-05-14 | [Xcode 11 iOS 13 simulator freeze UITextField](./xcode/2020-05-13_xcode-11-ios-13-simulator-freeze-uitextfield.md) |
 
 </details>
 

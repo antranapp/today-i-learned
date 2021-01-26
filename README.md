@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 21
--   TILs: 74
+-   TILs: 75
 
 ## android 
 
@@ -80,7 +80,7 @@
 
 ## ios 
 
-<details><summary markdown="span">ios (9)</summary>
+<details><summary markdown="span">ios (10)</summary>
 
 | Date       | Title                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -93,6 +93,7 @@
 | 2020-05-22 | [Enable network mocks and more in UI Tests](./ios/2020-05-22_enable-network-mocks-and-more-in-ui-tests.md)                                                                                                                                                                                                                                                                                                |
 | 2020-05-22 | [UI Test deleting text in text field](./ios/2020-05-22_ui-test-deleting-text-in-text-field.md)                                                                                                                                                                                                                                                                                                            |
 | 2020-05-26 | [UITests how to test screen edge pan gestures?](./ios/2020-05-25_uitests-how-to-test-screen-edge-pan-gestures.md)                                                                                                                                                                                                                                                                                         |
+| 2021-01-26 | [Add custom accessory to a row in UICollectionView](./ios/2021-01-26_add-custom-accessory-to-a-row-in-uicollectionview.md)                                                                                                                                                                                                                                                                                |
 
 </details>
 

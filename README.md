@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 21
--   TILs: 77
+-   TILs: 78
 
 ## android 
 
@@ -80,7 +80,7 @@
 
 ## ios 
 
-<details><summary markdown="span">ios (12)</summary>
+<details><summary markdown="span">ios (13)</summary>
 
 | Date       | Title                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,6 +96,7 @@
 | 2021-01-26 | [Add custom accessory to a row in UICollectionView](./ios/2021-01-26_add-custom-accessory-to-a-row-in-uicollectionview.md)                                                                                                                                                                                                                                                                                |
 | 2021-01-30 | [Use SwiftUI preview inside Swift Package](./ios/2021-01-30_use-swiftui-preview-inside-swift-package.md)                                                                                                                                                                                                                                                                                                  |
 | 2021-01-31 | [How to use Fastlane to deploy multiple targets to TestFlight, Xcode iOS](./ios/2021-01-31_how-to-use-fastlane-to-deploy-multiple-targets-to-testflight-xcode-ios.md)                                                                                                                                                                                                                                     |
+| 2021-02-07 | [Using A Custom Font With Dynamic Type](./ios/2021-02-07_using-a-custom-font-with-dynamic-type.md)                                                                                                                                                                                                                                                                                                        |
 
 </details>
 

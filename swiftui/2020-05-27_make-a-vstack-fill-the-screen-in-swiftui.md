@@ -7,27 +7,24 @@ createdAt: 2020-05-27T08:29:53Z
 # Make a VStack fill the screen in SwiftUI
 
 ```swift
-struct ContentView : View {
-
+struct ContentView: View {
     var body: some View {
-        GeometryReader { geometryProxy in
+        HStack() {
             VStack(alignment: .leading) {
-                Text("Title")
+                Text("Hello World")
                     .font(.title)
-                Text("Content")
+                Text("Another")
                     .font(.body)
+                Spacer()
             }
-            .frame(
-                width: geometryProxy.size.width,
-                height: geometryProxy.size.height,
-                alignment: .topLeading
-            )
-        }
-        .background(Color.red)
+            Spacer()
+        }.background(Color.red)
     }
 }
 ```
 
+![Gif](https://i.stack.imgur.com/5Ob2W.gif)
+
 ---
 
-https://stackoverflow.com/questions/56487323/make-a-vstack-fill-the-width-of-the-screen-in-swiftui/61444475#61444475
+https://stackoverflow.com/a/56496498/452115

@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 21
--   TILs: 82
+-   Topics: 22
+-   TILs: 83
 
 ## android 
 
@@ -53,6 +53,16 @@
 | Date       | Title                                                                                                                         |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | 2020-04-30 | [Handling Long Words and URLs (Forcing Breaks, Hyphenation, Ellipsis, etc)](./css/2020-04-29_handling-long-words-and-urls.md) |
+
+</details>
+
+## cypress 
+
+<details><summary markdown="span">cypress (1)</summary>
+
+| Date       | Title                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------- |
+| 2021-04-03 | [Cypress.io - sitemap.xml validation test](./cypress/2021-04-03_cypressio-sitemapxml-validation-test.md) |
 
 </details>
 

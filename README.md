@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 22
--   TILs: 83
+-   TILs: 84
 
 ## android 
 
@@ -235,13 +235,14 @@
 
 ## tools 
 
-<details><summary markdown="span">tools (3)</summary>
+<details><summary markdown="span">tools (4)</summary>
 
 | Date       | Title                                                                                                                                                                               |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-04-24 | [Local file transfer between desktops and mobile devices from terminal with QRCode](./tools/2020-04-13_local_file_transfer_desktop_mobile_terminal_qrcode.md)                       |
 | 2020-05-04 | [a little macOS app that records your screen to make a timelapse](./tools/2020-05-04_a-little-macos-app-that-records-your-screen-to-make-a-timelapse.md)                            |
 | 2020-04-28 | [A delightful community-driven framework for managing your `zsh` configurations, plugins, themes](./tools/2020_04_27_ohmyzsh_community-driven-zsh-plugins-configurations-themes.md) |
+| 2021-04-11 | [Cross posting cli DEV, Hashnode, Medium](./tools/2021-04-11_cross-posting-cli-dev-hashnode-medium.md)                                                                              |
 
 </details>
 

@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 23
--   TILs: 87
+-   TILs: 88
 
 ## android 
 
@@ -168,10 +168,11 @@
 
 ## raspberrypi 
 
-<details><summary markdown="span">raspberrypi (2)</summary>
+<details><summary markdown="span">raspberrypi (3)</summary>
 
 | Date       | Title                                                                                          |
 | ---------- | ---------------------------------------------------------------------------------------------- |
+| 2021-05-02 | [Auto start a script at boot](./raspberrypi/2021-05-02_auto-start-a-script-at-boot.md)         |
 | 2021-05-02 | [Disable screensaver](./raspberrypi/2021-05-02_disable-screensaver.md)                         |
 | 2021-05-02 | [Using wildcard with scp command](./raspberrypi/2021-05-02_using-wildcard-with-scp-command.md) |
 

@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 23
--   TILs: 90
+-   TILs: 91
 
 ## android 
 
@@ -169,7 +169,7 @@
 
 ## raspberrypi 
 
-<details><summary markdown="span">raspberrypi (4)</summary>
+<details><summary markdown="span">raspberrypi (5)</summary>
 
 | Date       | Title                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------ |
@@ -177,6 +177,7 @@
 | 2021-05-02 | [Disable screensaver](./raspberrypi/2021-05-02_disable-screensaver.md)                                 |
 | 2021-05-02 | [Using wildcard with scp command](./raspberrypi/2021-05-02_using-wildcard-with-scp-command.md)         |
 | 2021-05-09 | [How to ake HDMI hot-pluggable on PI?](./raspberrypi/2021-05-09_how-to-ake-hdmi-hotpluggable-on-pi.md) |
+| 2021-05-16 | [Do not mix RPi.GPIO and gpiozero](./raspberrypi/2021-05-16_do-not-mix-rpigpio-and-gpiozero.md)        |
 
 </details>
 

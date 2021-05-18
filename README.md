@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 23
--   TILs: 91
+-   Topics: 24
+-   TILs: 93
 
 ## android 
 
@@ -202,6 +202,16 @@
 
 </details>
 
+## sourcetree 
+
+<details><summary markdown="span">sourcetree (1)</summary>
+
+| Date       | Title                                                                                                                                            |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2021-05-16 | [Hook failing because paths don't seem to be set correctly](./sourcetree/2021-05-16_hook-failing-because-paths-dont-seem-to-be-set-correctly.md) |
+
+</details>
+
 ## swift 
 
 <details><summary markdown="span">swift (5)</summary>
@@ -218,7 +228,7 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (24)</summary>
+<details><summary markdown="span">swiftui (25)</summary>
 
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -246,6 +256,7 @@
 | 2020-05-28 | [Simple SwiftUI Arc endAngle animation](./swiftui/2020-05-28_simple-swiftui-arc-endangle-animation.md)                                                                                               |
 | 2020-05-29 | [Dismiss view with swipe on iOS 13 XCUITest](./swiftui/2020-05-29_dismiss-view-with-swipe-on-ios-13-xcuitest.md)                                                                                     |
 | 2020-06-03 | [Add a border with cornerRadius to an Image in SwiftUI](./swiftui/2020-06-03_add-a-border-with-cornerradius-to-an-image-in-swiftui.md)                                                               |
+| 2021-05-18 | [How to update @FetchRequest, when a related Entity changes in SwiftUI?](./swiftui/2021-05-18_how-to-update-fetchrequest-when-a-related-entity-changes-in-swiftui.md)                                |
 
 </details>
 

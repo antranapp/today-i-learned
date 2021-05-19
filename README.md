@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 24
--   TILs: 93
+-   TILs: 94
 
 ## android 
 
@@ -92,7 +92,7 @@
 
 ## ios 
 
-<details><summary markdown="span">ios (17)</summary>
+<details><summary markdown="span">ios (18)</summary>
 
 | Date       | Title                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -113,6 +113,7 @@
 | 2021-02-11 | [Get light or dark variant of a color declared in assets](./ios/2021-02-11_get-light-or-dark-variant-of-a-color-declared-in-assets.md)                                                                                                                                                                                                                                                                    |
 | 2021-03-03 | [Convert UIFont to SwiftUI Font](./ios/2021-03-03_convert-uifont-to-swiftui-font.md)                                                                                                                                                                                                                                                                                                                      |
 | 2021-03-14 | [Multiline Text View in SwiftUI](./ios/2021-03-14_multiline-text-view-in-swiftui.md)                                                                                                                                                                                                                                                                                                                      |
+| 2021-05-20 | [Core Data - how to generate CoreDataGeneratedAccessors?](./ios/2021-05-20_core-data-how-to-generate-coredatageneratedaccessors.md)                                                                                                                                                                                                                                                                       |
 
 </details>
 

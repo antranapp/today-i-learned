@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 25
--   TILs: 95
+-   TILs: 96
 
 ## android 
 
@@ -239,7 +239,7 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (25)</summary>
+<details><summary markdown="span">swiftui (26)</summary>
 
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -268,6 +268,7 @@
 | 2020-05-29 | [Dismiss view with swipe on iOS 13 XCUITest](./swiftui/2020-05-29_dismiss-view-with-swipe-on-ios-13-xcuitest.md)                                                                                     |
 | 2020-06-03 | [Add a border with cornerRadius to an Image in SwiftUI](./swiftui/2020-06-03_add-a-border-with-cornerradius-to-an-image-in-swiftui.md)                                                               |
 | 2021-05-18 | [How to update @FetchRequest, when a related Entity changes in SwiftUI?](./swiftui/2021-05-18_how-to-update-fetchrequest-when-a-related-entity-changes-in-swiftui.md)                                |
+| 2021-05-25 | [Rounded Borders in SwiftUI](./swiftui/2021-05-25_rounded-borders-in-swiftui.md)                                                                                                                     |
 
 </details>
 

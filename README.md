@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 25
--   TILs: 97
+-   Topics: 26
+-   TILs: 101
 
 ## android 
 
@@ -157,6 +157,16 @@
 
 </details>
 
+## makefile 
+
+<details><summary markdown="span">makefile (1)</summary>
+
+| Date       | Title                                                                      |
+| ---------- | -------------------------------------------------------------------------- |
+| 2021-06-10 | [Missing Separator. Stop](./makefile/2021-06-10_missing-separator-stop.md) |
+
+</details>
+
 ## minimalist 
 
 <details><summary markdown="span">minimalist (1)</summary>
@@ -239,7 +249,7 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (27)</summary>
+<details><summary markdown="span">swiftui (30)</summary>
 
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -270,6 +280,9 @@
 | 2021-05-18 | [How to update @FetchRequest, when a related Entity changes in SwiftUI?](./swiftui/2021-05-18_how-to-update-fetchrequest-when-a-related-entity-changes-in-swiftui.md)                                |
 | 2021-05-25 | [Rounded Borders in SwiftUI](./swiftui/2021-05-25_rounded-borders-in-swiftui.md)                                                                                                                     |
 | 2021-05-26 | [Detecting tapping on the back button on NavigationView](./swiftui/2021-05-26_detecting-tapping-on-the-back-button-on-navigationview.md)                                                             |
+| 2021-06-02 | [How do you clip an image to a square inside a lazy grid? (SwiftUI)](./swiftui/2021-06-02_how-do-you-clip-an-image-to-a-square-inside-a-lazy-grid-swiftui.md)                                        |
+| 2021-06-07 | [Picker for optional data type in SwiftUI?](./swiftui/2021-06-07_picker-for-optional-data-type-in-swiftui.md)                                                                                        |
+| 2021-06-07 | [Set initial value for State](./swiftui/2021-06-07_set-initial-value-for-state.md)                                                                                                                   |
 
 </details>
 

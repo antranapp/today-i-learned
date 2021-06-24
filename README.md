@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 26
--   TILs: 101
+-   TILs: 102
 
 ## android 
 
@@ -249,7 +249,7 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (30)</summary>
+<details><summary markdown="span">swiftui (31)</summary>
 
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -283,6 +283,7 @@
 | 2021-06-02 | [How do you clip an image to a square inside a lazy grid? (SwiftUI)](./swiftui/2021-06-02_how-do-you-clip-an-image-to-a-square-inside-a-lazy-grid-swiftui.md)                                        |
 | 2021-06-07 | [Picker for optional data type in SwiftUI?](./swiftui/2021-06-07_picker-for-optional-data-type-in-swiftui.md)                                                                                        |
 | 2021-06-07 | [Set initial value for State](./swiftui/2021-06-07_set-initial-value-for-state.md)                                                                                                                   |
+| 2021-06-25 | [How to hide keyboard when using SwiftUI?](./swiftui/2021-06-25_how-to-hide-keyboard-when-using-swiftui.md)                                                                                          |
 
 </details>
 

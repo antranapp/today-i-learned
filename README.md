@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 26
--   TILs: 102
+-   TILs: 104
 
 ## android 
 
@@ -249,7 +249,7 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (31)</summary>
+<details><summary markdown="span">swiftui (33)</summary>
 
 | Date       | Title                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -284,6 +284,8 @@
 | 2021-06-07 | [Picker for optional data type in SwiftUI?](./swiftui/2021-06-07_picker-for-optional-data-type-in-swiftui.md)                                                                                        |
 | 2021-06-07 | [Set initial value for State](./swiftui/2021-06-07_set-initial-value-for-state.md)                                                                                                                   |
 | 2021-06-25 | [How to hide keyboard when using SwiftUI?](./swiftui/2021-06-25_how-to-hide-keyboard-when-using-swiftui.md)                                                                                          |
+| 2021-06-29 | [Make SwiftUI Color codable](./swiftui/2021-06-29_make-swiftui-color-codable.md)                                                                                                                     |
+| 2021-07-14 | [How to set the scale when using UIGraphicsImageRenderer](./swiftui/2021-07-14_how-to-set-the-scale-when-using-uigraphicsimagerenderer.md)                                                           |
 
 </details>
 
@@ -348,5 +350,6 @@ SUBCOMMANDS:
   generate-readme         Generate a README.md from the content.
   deploy                  Deploy the content to the remote repository.
 
+  See 'til help <subcommand>' for detailed help.
 ```
 

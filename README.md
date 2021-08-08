@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 26
--   TILs: 104
+-   TILs: 106
 
 ## android 
 
@@ -249,43 +249,45 @@
 
 ## swiftui 
 
-<details><summary markdown="span">swiftui (33)</summary>
+<details><summary markdown="span">swiftui (35)</summary>
 
-| Date       | Title                                                                                                                                                                                                |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2020-05-12 | [ForEach with index](./swiftui/2020-05-12_foreach-with-index.md)                                                                                                                                     |
-| 2020-05-13 | [Hide Seperator in List](./swiftui/2020-05-12_hide-seperator-in-list.md)                                                                                                                             |
-| 2020-05-13 | [Preview with Core Data](./swiftui/2020-05-12_preview-with-core-data.md)                                                                                                                             |
-| 2020-05-13 | [Binding value from an ObservableObject](./swiftui/2020-05-13_binding-value-from-an-observableobject.md)                                                                                             |
-| 2020-05-13 | [HSHostingController, easily present fullscreen modals, safari, email, etc from SwiftUI](./swiftui/2020-05-13_hshostingcontroller-easily-present-fullscreen-modals-safari-email-etc-from-swiftui.md) |
-| 2020-05-13 | [SwiftUI: How to implement a custom init with @Binding variables](./swiftui/2020-05-13_swiftui-how-to-implement-a-custom-init-with-binding-variables.md)                                             |
-| 2020-05-14 | [3 Ways to React to @State Changes in SwiftUI](./swiftui/2020-05-14_3-ways-to-react-to-state-changes-in-swiftui.md)                                                                                  |
-| 2020-05-15 | [Disable user interaction on SwiftUI View](./swiftui/2020-05-14_disable-user-interaction-on-swiftui-view.md)                                                                                         |
-| 2020-05-15 | [How to instantiate PreviewProvider when View requires @Binding in initializer](./swiftui/2020-05-14_how-to-instantiate-previewprovider-when-view-requires-binding-in-initializer.md)                |
-| 2020-05-15 | [HStack fill whole width with equal spacing](./swiftui/2020-05-15_hstack-fill-whole-width-with-equal-spacing.md)                                                                                     |
-| 2020-05-15 | [Text aligment with custom frame](./swiftui/2020-05-15_text-aligment-with-custom-frame.md)                                                                                                           |
-| 2020-05-18 | [How do I create a multiline TextField in SwiftUI?](./swiftui/2020-05-18_how-do-i-create-a-multiline-textfield-in-swiftui.md)                                                                        |
-| 2020-05-19 | [How to detect live changes on TextField in SwiftUI?](./swiftui/2020-05-18_how-to-detect-live-changes-on-textfield-in-swiftui.md)                                                                    |
-| 2020-05-18 | [How to make a view dismiss itself](./swiftui/2020-05-18_how-to-make-a-view-dismiss-itself.md)                                                                                                       |
-| 2020-05-19 | [How to use SwiftUI in Swift Playgrounds](./swiftui/2020-05-18_how-to-use-swiftui-in-swift-playgrounds.md)                                                                                           |
-| 2020-05-18 | [UITextView wrapper for SwiftUI](./swiftui/2020-05-18_uitextview-wrapper-for-swiftui.md)                                                                                                             |
-| 2020-05-25 | [How to show complete List when keyboard is showing up in SwiftUI](./swiftui/2020-05-24_how-to-show-complete-list-when-keyboard-is-showing-up-in-swiftui.md)                                         |
-| 2020-05-27 | [How to hide the status bar in SwiftUI](./swiftui/2020-05-27_how-to-hide-the-status-bar-in-swiftui.md)                                                                                               |
-| 2020-05-27 | [Make a VStack fill the screen in SwiftUI](./swiftui/2020-05-27_make-a-vstack-fill-the-screen-in-swiftui.md)                                                                                         |
-| 2020-05-28 | [Fixed: Multiple sheet(isPresented:) doesn't work in SwiftUI](./swiftui/2020-05-28_fixed-multiple-sheetispresented-doesnt-work-in-swiftui.md)                                                        |
-| 2020-05-28 | [Fixed: SwiftUI picker in form repositioning after navigation](./swiftui/2020-05-28_fixed-swiftui-picker-in-form-repositioning-after-navigation.md)                                                  |
-| 2020-05-28 | [Simple SwiftUI Arc endAngle animation](./swiftui/2020-05-28_simple-swiftui-arc-endangle-animation.md)                                                                                               |
-| 2020-05-29 | [Dismiss view with swipe on iOS 13 XCUITest](./swiftui/2020-05-29_dismiss-view-with-swipe-on-ios-13-xcuitest.md)                                                                                     |
-| 2020-06-03 | [Add a border with cornerRadius to an Image in SwiftUI](./swiftui/2020-06-03_add-a-border-with-cornerradius-to-an-image-in-swiftui.md)                                                               |
-| 2021-05-18 | [How to update @FetchRequest, when a related Entity changes in SwiftUI?](./swiftui/2021-05-18_how-to-update-fetchrequest-when-a-related-entity-changes-in-swiftui.md)                                |
-| 2021-05-25 | [Rounded Borders in SwiftUI](./swiftui/2021-05-25_rounded-borders-in-swiftui.md)                                                                                                                     |
-| 2021-05-26 | [Detecting tapping on the back button on NavigationView](./swiftui/2021-05-26_detecting-tapping-on-the-back-button-on-navigationview.md)                                                             |
-| 2021-06-02 | [How do you clip an image to a square inside a lazy grid? (SwiftUI)](./swiftui/2021-06-02_how-do-you-clip-an-image-to-a-square-inside-a-lazy-grid-swiftui.md)                                        |
-| 2021-06-07 | [Picker for optional data type in SwiftUI?](./swiftui/2021-06-07_picker-for-optional-data-type-in-swiftui.md)                                                                                        |
-| 2021-06-07 | [Set initial value for State](./swiftui/2021-06-07_set-initial-value-for-state.md)                                                                                                                   |
-| 2021-06-25 | [How to hide keyboard when using SwiftUI?](./swiftui/2021-06-25_how-to-hide-keyboard-when-using-swiftui.md)                                                                                          |
-| 2021-06-29 | [Make SwiftUI Color codable](./swiftui/2021-06-29_make-swiftui-color-codable.md)                                                                                                                     |
-| 2021-07-14 | [How to set the scale when using UIGraphicsImageRenderer](./swiftui/2021-07-14_how-to-set-the-scale-when-using-uigraphicsimagerenderer.md)                                                           |
+| Date       | Title                                                                                                                                                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-05-12 | [ForEach with index](./swiftui/2020-05-12_foreach-with-index.md)                                                                                                                                                    |
+| 2020-05-13 | [Hide Seperator in List](./swiftui/2020-05-12_hide-seperator-in-list.md)                                                                                                                                            |
+| 2020-05-13 | [Preview with Core Data](./swiftui/2020-05-12_preview-with-core-data.md)                                                                                                                                            |
+| 2020-05-13 | [Binding value from an ObservableObject](./swiftui/2020-05-13_binding-value-from-an-observableobject.md)                                                                                                            |
+| 2020-05-13 | [HSHostingController, easily present fullscreen modals, safari, email, etc from SwiftUI](./swiftui/2020-05-13_hshostingcontroller-easily-present-fullscreen-modals-safari-email-etc-from-swiftui.md)                |
+| 2020-05-13 | [SwiftUI: How to implement a custom init with @Binding variables](./swiftui/2020-05-13_swiftui-how-to-implement-a-custom-init-with-binding-variables.md)                                                            |
+| 2020-05-14 | [3 Ways to React to @State Changes in SwiftUI](./swiftui/2020-05-14_3-ways-to-react-to-state-changes-in-swiftui.md)                                                                                                 |
+| 2020-05-15 | [Disable user interaction on SwiftUI View](./swiftui/2020-05-14_disable-user-interaction-on-swiftui-view.md)                                                                                                        |
+| 2020-05-15 | [How to instantiate PreviewProvider when View requires @Binding in initializer](./swiftui/2020-05-14_how-to-instantiate-previewprovider-when-view-requires-binding-in-initializer.md)                               |
+| 2020-05-15 | [HStack fill whole width with equal spacing](./swiftui/2020-05-15_hstack-fill-whole-width-with-equal-spacing.md)                                                                                                    |
+| 2020-05-15 | [Text aligment with custom frame](./swiftui/2020-05-15_text-aligment-with-custom-frame.md)                                                                                                                          |
+| 2020-05-18 | [How do I create a multiline TextField in SwiftUI?](./swiftui/2020-05-18_how-do-i-create-a-multiline-textfield-in-swiftui.md)                                                                                       |
+| 2020-05-19 | [How to detect live changes on TextField in SwiftUI?](./swiftui/2020-05-18_how-to-detect-live-changes-on-textfield-in-swiftui.md)                                                                                   |
+| 2020-05-18 | [How to make a view dismiss itself](./swiftui/2020-05-18_how-to-make-a-view-dismiss-itself.md)                                                                                                                      |
+| 2020-05-19 | [How to use SwiftUI in Swift Playgrounds](./swiftui/2020-05-18_how-to-use-swiftui-in-swift-playgrounds.md)                                                                                                          |
+| 2020-05-18 | [UITextView wrapper for SwiftUI](./swiftui/2020-05-18_uitextview-wrapper-for-swiftui.md)                                                                                                                            |
+| 2020-05-25 | [How to show complete List when keyboard is showing up in SwiftUI](./swiftui/2020-05-24_how-to-show-complete-list-when-keyboard-is-showing-up-in-swiftui.md)                                                        |
+| 2020-05-27 | [How to hide the status bar in SwiftUI](./swiftui/2020-05-27_how-to-hide-the-status-bar-in-swiftui.md)                                                                                                              |
+| 2020-05-27 | [Make a VStack fill the screen in SwiftUI](./swiftui/2020-05-27_make-a-vstack-fill-the-screen-in-swiftui.md)                                                                                                        |
+| 2020-05-28 | [Fixed: Multiple sheet(isPresented:) doesn't work in SwiftUI](./swiftui/2020-05-28_fixed-multiple-sheetispresented-doesnt-work-in-swiftui.md)                                                                       |
+| 2020-05-28 | [Fixed: SwiftUI picker in form repositioning after navigation](./swiftui/2020-05-28_fixed-swiftui-picker-in-form-repositioning-after-navigation.md)                                                                 |
+| 2020-05-28 | [Simple SwiftUI Arc endAngle animation](./swiftui/2020-05-28_simple-swiftui-arc-endangle-animation.md)                                                                                                              |
+| 2020-05-29 | [Dismiss view with swipe on iOS 13 XCUITest](./swiftui/2020-05-29_dismiss-view-with-swipe-on-ios-13-xcuitest.md)                                                                                                    |
+| 2020-06-03 | [Add a border with cornerRadius to an Image in SwiftUI](./swiftui/2020-06-03_add-a-border-with-cornerradius-to-an-image-in-swiftui.md)                                                                              |
+| 2021-05-18 | [How to update @FetchRequest, when a related Entity changes in SwiftUI?](./swiftui/2021-05-18_how-to-update-fetchrequest-when-a-related-entity-changes-in-swiftui.md)                                               |
+| 2021-05-25 | [Rounded Borders in SwiftUI](./swiftui/2021-05-25_rounded-borders-in-swiftui.md)                                                                                                                                    |
+| 2021-05-26 | [Detecting tapping on the back button on NavigationView](./swiftui/2021-05-26_detecting-tapping-on-the-back-button-on-navigationview.md)                                                                            |
+| 2021-06-02 | [How do you clip an image to a square inside a lazy grid? (SwiftUI)](./swiftui/2021-06-02_how-do-you-clip-an-image-to-a-square-inside-a-lazy-grid-swiftui.md)                                                       |
+| 2021-06-07 | [Picker for optional data type in SwiftUI?](./swiftui/2021-06-07_picker-for-optional-data-type-in-swiftui.md)                                                                                                       |
+| 2021-06-07 | [Set initial value for State](./swiftui/2021-06-07_set-initial-value-for-state.md)                                                                                                                                  |
+| 2021-06-25 | [How to hide keyboard when using SwiftUI?](./swiftui/2021-06-25_how-to-hide-keyboard-when-using-swiftui.md)                                                                                                         |
+| 2021-06-29 | [Make SwiftUI Color codable](./swiftui/2021-06-29_make-swiftui-color-codable.md)                                                                                                                                    |
+| 2021-07-14 | [How to set the scale when using UIGraphicsImageRenderer](./swiftui/2021-07-14_how-to-set-the-scale-when-using-uigraphicsimagerenderer.md)                                                                          |
+| 2021-07-15 | [SwiftUI: sheet not presented if triggered from subview when superview can also present sheet](./swiftui/2021-07-15_swiftui-sheet-not-presented-if-triggered-from-subview-when-superview-can-also-present-sheet.md) |
+| 2021-08-09 | [Overlapping Navigation Titles In SwiftUI](./swiftui/2021-08-09_overlapping-navigation-titles-in-swiftui.md)                                                                                                        |
 
 </details>
 

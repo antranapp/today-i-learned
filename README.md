@@ -1,16 +1,17 @@
 # Today I Learned
 
 -   Topics: 26
--   TILs: 106
+-   TILs: 107
 
 ## android 
 
-<details><summary markdown="span">android (2)</summary>
+<details><summary markdown="span">android (3)</summary>
 
 | Date       | Title                                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-04-29 | [Capture images and videos from android devices with adb](./android/2020-04-28_capture-images-videos-from-android-devices-adb.md) |
 | 2020-04-22 | [Open source minimalist launcher for Android](./android/2020-04-28_open-source-minimalist-launcher.md)                            |
+| 2022-01-31 | [Fix failling to start emulator on Android Studio](./android/2022-01-31_fix-failling-to-start-emulator-on-android-studio.md)      |
 
 </details>
 
@@ -352,6 +353,5 @@ SUBCOMMANDS:
   generate-readme         Generate a README.md from the content.
   deploy                  Deploy the content to the remote repository.
 
-  See 'til help <subcommand>' for detailed help.
 ```
 

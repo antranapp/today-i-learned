@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 26
--   TILs: 107
+-   Topics: 27
+-   TILs: 108
 
 ## android 
 
@@ -135,6 +135,16 @@
 | Date       | Title                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 2021-01-10 | [Manage widgets in jupyter notebooks using Ipywidgets](./jupyter/2021-01-10_manage-widgets-in-jupyter-notebooks-using-ipywidgets.md) |
+
+</details>
+
+## leetcode 
+
+<details><summary markdown="span">leetcode (1)</summary>
+
+| Date       | Title                                                                                            |
+| ---------- | ------------------------------------------------------------------------------------------------ |
+| 2022-03-15 | [953. Verifying an Alien Dictionary](./leetcode/2022-03-15_953-verifying-an-alien-dictionary.md) |
 
 </details>
 

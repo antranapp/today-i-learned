@@ -1,10 +1,20 @@
 ---
 title: 953. Verifying an Alien Dictionary
 createdAt: 2022-03-14T22:41:48Z
-tags: leetcode, algorithm
+tags: leetcode, algorithm, array
 ---
 
 # 953. Verifying an Alien Dictionary
+
+**Problem:** [Verify an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+
+**Primary idea**: Compare words one by one and make sure they are following the order
+
+**Difficulty:** Easy
+
+**Time Complexity:** O(n)
+
+**Space Complexity:** O(n)
 
 ## Swift
 

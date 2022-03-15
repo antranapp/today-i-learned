@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 109
+-   TILs: 110
 
 ## android 
 
@@ -140,12 +140,13 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (2)</summary>
+<details><summary markdown="span">leetcode (3)</summary>
 
 | Date       | Title                                                                                            |
 | ---------- | ------------------------------------------------------------------------------------------------ |
 | 2022-03-15 | [905. Sort Array By Parity](./leetcode/2022-03-15_905-sort-array-by-parity.md)                   |
 | 2022-03-15 | [953. Verifying an Alien Dictionary](./leetcode/2022-03-15_953-verifying-an-alien-dictionary.md) |
+| 2022-03-16 | [485. Max Consecutive Ones](./leetcode/2022-03-16_485-max-consecutive-ones.md)                   |
 
 </details>
 

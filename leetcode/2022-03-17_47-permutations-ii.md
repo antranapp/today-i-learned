@@ -1,6 +1,7 @@
 ---
 title: 47. Permutations II
 createdAt: 2022-03-16T22:37:58Z
+tags: leetcode, algorithm, depth-first-search
 ---
 
 # 47. Permutations II

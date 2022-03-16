@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 116
+-   TILs: 118
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (9)</summary>
+<details><summary markdown="span">leetcode (11)</summary>
 
 | Date       | Title                                                                                            |
 | ---------- | ------------------------------------------------------------------------------------------------ |
@@ -150,8 +150,10 @@
 | 2022-03-16 | [412. Fizz Buzz](./leetcode/2022-03-16_412-fizz-buzz.md)                                         |
 | 2022-03-16 | [475. Heaters](./leetcode/2022-03-16_475-heaters.md)                                             |
 | 2022-03-16 | [485. Max Consecutive Ones](./leetcode/2022-03-16_485-max-consecutive-ones.md)                   |
+| 2022-03-17 | [1. Two Sum](./leetcode/2022-03-17_1-two-sum.md)                                                 |
 | 2022-03-17 | [46. Permutations](./leetcode/2022-03-17_46-permutations.md)                                     |
 | 2022-03-17 | [47. Permutations II](./leetcode/2022-03-17_47-permutations-ii.md)                               |
+| 2022-03-17 | [67. Add Binary](./leetcode/2022-03-17_67-add-binary.md)                                         |
 | 2022-03-17 | [78. Subsets](./leetcode/2022-03-17_78-subsets.md)                                               |
 
 </details>

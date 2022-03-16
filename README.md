@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 114
+-   TILs: 116
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (7)</summary>
+<details><summary markdown="span">leetcode (9)</summary>
 
 | Date       | Title                                                                                            |
 | ---------- | ------------------------------------------------------------------------------------------------ |
@@ -151,6 +151,8 @@
 | 2022-03-16 | [475. Heaters](./leetcode/2022-03-16_475-heaters.md)                                             |
 | 2022-03-16 | [485. Max Consecutive Ones](./leetcode/2022-03-16_485-max-consecutive-ones.md)                   |
 | 2022-03-17 | [46. Permutations](./leetcode/2022-03-17_46-permutations.md)                                     |
+| 2022-03-17 | [47. Permutations II](./leetcode/2022-03-17_47-permutations-ii.md)                               |
+| 2022-03-17 | [78. Subsets](./leetcode/2022-03-17_78-subsets.md)                                               |
 
 </details>
 

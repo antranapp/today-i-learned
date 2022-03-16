@@ -1,6 +1,7 @@
 ---
 title: 206. Reverse Linked List
 createdAt: 2022-03-15T23:34:05Z
+tags: leetcode, algorithm, linked-list
 ---
 
 # 206. Reverse Linked List
@@ -16,16 +17,6 @@ createdAt: 2022-03-15T23:34:05Z
 **Space Complexity**: O(1)
 
 ```swift
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     public var val: Int
- *     public var next: ListNode?
- *     public init() { self.val = 0; self.next = nil; }
- *     public init(_ val: Int) { self.val = val; self.next = nil; }
- *     public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
- * }
- */
 class Solution {
     func reverseList(_ head: ListNode?) -> ListNode? {
         guard let head = head, let next = head.next else {
@@ -63,11 +54,11 @@ class Solution {
     }
 }
 
-public class ListNode {
-    public var val: Int
-    public var next: ListNode?
+class ListNode {
+    var val: Int
+    var next: ListNode?
     
-    public init(_ vals: [Int]) {
+    init(_ vals: [Int]) {
         self.val = vals[0]
         var first: ListNode? = self
         for i in 1..<vals.count {
@@ -75,9 +66,9 @@ public class ListNode {
             first = first?.next
         }
     }
-    public init() { self.val = 0; self.next = nil; }
-    public init(_ val: Int) { self.val = val; self.next = nil; }
-    public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
+    init() { self.val = 0; self.next = nil; }
+    init(_ val: Int) { self.val = val; self.next = nil; }
+    init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
     
     var description: String {
         var result = [String]()

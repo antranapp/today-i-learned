@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 118
+-   TILs: 119
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (11)</summary>
+<details><summary markdown="span">leetcode (12)</summary>
 
 | Date       | Title                                                                                            |
 | ---------- | ------------------------------------------------------------------------------------------------ |
@@ -155,6 +155,7 @@
 | 2022-03-17 | [47. Permutations II](./leetcode/2022-03-17_47-permutations-ii.md)                               |
 | 2022-03-17 | [67. Add Binary](./leetcode/2022-03-17_67-add-binary.md)                                         |
 | 2022-03-17 | [78. Subsets](./leetcode/2022-03-17_78-subsets.md)                                               |
+| 2022-03-18 | [2. Add Two Numbers](./leetcode/2022-03-18_2-add-two-numbers.md)                                 |
 
 </details>
 

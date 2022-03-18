@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 119
+-   TILs: 120
 
 ## android 
 
@@ -140,22 +140,23 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (12)</summary>
+<details><summary markdown="span">leetcode (13)</summary>
 
-| Date       | Title                                                                                            |
-| ---------- | ------------------------------------------------------------------------------------------------ |
-| 2022-03-15 | [905. Sort Array By Parity](./leetcode/2022-03-15_905-sort-array-by-parity.md)                   |
-| 2022-03-15 | [953. Verifying an Alien Dictionary](./leetcode/2022-03-15_953-verifying-an-alien-dictionary.md) |
-| 2022-03-16 | [206. Reverse Linked List](./leetcode/2022-03-16_206-reverse-linked-list.md)                     |
-| 2022-03-16 | [412. Fizz Buzz](./leetcode/2022-03-16_412-fizz-buzz.md)                                         |
-| 2022-03-16 | [475. Heaters](./leetcode/2022-03-16_475-heaters.md)                                             |
-| 2022-03-16 | [485. Max Consecutive Ones](./leetcode/2022-03-16_485-max-consecutive-ones.md)                   |
-| 2022-03-17 | [1. Two Sum](./leetcode/2022-03-17_1-two-sum.md)                                                 |
-| 2022-03-17 | [46. Permutations](./leetcode/2022-03-17_46-permutations.md)                                     |
-| 2022-03-17 | [47. Permutations II](./leetcode/2022-03-17_47-permutations-ii.md)                               |
-| 2022-03-17 | [67. Add Binary](./leetcode/2022-03-17_67-add-binary.md)                                         |
-| 2022-03-17 | [78. Subsets](./leetcode/2022-03-17_78-subsets.md)                                               |
-| 2022-03-18 | [2. Add Two Numbers](./leetcode/2022-03-18_2-add-two-numbers.md)                                 |
+| Date       | Title                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-03-15 | [905. Sort Array By Parity](./leetcode/2022-03-15_905-sort-array-by-parity.md)                                                 |
+| 2022-03-15 | [953. Verifying an Alien Dictionary](./leetcode/2022-03-15_953-verifying-an-alien-dictionary.md)                               |
+| 2022-03-16 | [206. Reverse Linked List](./leetcode/2022-03-16_206-reverse-linked-list.md)                                                   |
+| 2022-03-16 | [412. Fizz Buzz](./leetcode/2022-03-16_412-fizz-buzz.md)                                                                       |
+| 2022-03-16 | [475. Heaters](./leetcode/2022-03-16_475-heaters.md)                                                                           |
+| 2022-03-16 | [485. Max Consecutive Ones](./leetcode/2022-03-16_485-max-consecutive-ones.md)                                                 |
+| 2022-03-17 | [1. Two Sum](./leetcode/2022-03-17_1-two-sum.md)                                                                               |
+| 2022-03-17 | [46. Permutations](./leetcode/2022-03-17_46-permutations.md)                                                                   |
+| 2022-03-17 | [47. Permutations II](./leetcode/2022-03-17_47-permutations-ii.md)                                                             |
+| 2022-03-17 | [67. Add Binary](./leetcode/2022-03-17_67-add-binary.md)                                                                       |
+| 2022-03-17 | [78. Subsets](./leetcode/2022-03-17_78-subsets.md)                                                                             |
+| 2022-03-18 | [2. Add Two Numbers](./leetcode/2022-03-18_2-add-two-numbers.md)                                                               |
+| 2022-03-18 | [3. Longest Substring Without Repeating Characters](./leetcode/2022-03-18_3-longest-substring-without-repeating-characters.md) |
 
 </details>
 

@@ -1,6 +1,7 @@
 ---
 title: 229. Majority Element II
 createdAt: 2022-03-21T22:30:08Z
+tags: leetcode, algorithm, array
 ---
 
 # 169. Majority Element II

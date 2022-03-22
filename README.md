@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 123
+-   TILs: 126
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (16)</summary>
+<details><summary markdown="span">leetcode (19)</summary>
 
 | Date       | Title                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -160,6 +160,9 @@
 | 2022-03-20 | [5. Longest Palindromic Substring](./leetcode/2022-03-20_5-longest-palindromic-substring.md)                                   |
 | 2022-03-22 | [229. Majority Element II](./leetcode/2022-03-22_169-majority-element-ii.md)                                                   |
 | 2022-03-22 | [169. Majority Element](./leetcode/2022-03-22_169-majority-element.md)                                                         |
+| 2022-03-23 | [349. Intersection of Two Arrays](./leetcode/2022-03-23_349-intersection-of-two-arrays.md)                                     |
+| 2022-03-23 | [41. First Missing Positive](./leetcode/2022-03-23_41-first-missing-positive.md)                                               |
+| 2022-03-23 | [Leetcode Cheatsheet (Swift)](./leetcode/2022-03-23_leetcode_cheatsheet.md)                                                    |
 
 </details>
 

@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 127
+-   TILs: 129
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (20)</summary>
+<details><summary markdown="span">leetcode (22)</summary>
 
 | Date       | Title                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -163,6 +163,8 @@
 | 2022-03-23 | [349. Intersection of Two Arrays](./leetcode/2022-03-23_349-intersection-of-two-arrays.md)                                     |
 | 2022-03-23 | [41. First Missing Positive](./leetcode/2022-03-23_41-first-missing-positive.md)                                               |
 | 2022-03-23 | [Leetcode Cheatsheet (Swift)](./leetcode/2022-03-23_leetcode_cheatsheet.md)                                                    |
+| 2022-03-26 | [217. Contains Duplicate](./leetcode/2022-03-26_217-contains-duplicate.md)                                                     |
+| 2022-03-26 | [219. Contains Duplicate II](./leetcode/2022-03-26_219-contains-duplicate-ii.md)                                               |
 | 2022-03-26 | [350. Intersection of Two Arrays II](./leetcode/2022-03-26_350-intersection-of-two-arrays-ii.md)                               |
 
 </details>

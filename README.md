@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 130
+-   TILs: 134
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (23)</summary>
+<details><summary markdown="span">leetcode (27)</summary>
 
 | Date       | Title                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -167,6 +167,10 @@
 | 2022-03-26 | [219. Contains Duplicate II](./leetcode/2022-03-26_219-contains-duplicate-ii.md)                                               |
 | 2022-03-26 | [350. Intersection of Two Arrays II](./leetcode/2022-03-26_350-intersection-of-two-arrays-ii.md)                               |
 | 2022-03-28 | [26. Remove Duplicates from Sorted Array](./leetcode/2022-03-28_26-remove-duplicates-from-sorted-array.md)                     |
+| 2022-03-28 | [80. Remove Duplicates from Sorted Array II](./leetcode/2022-03-28_80-remove-duplicates-from-sorted-array-ii.md)               |
+| 2022-03-29 | [27. Remove Element](./leetcode/2022-03-29_27-remove-element.md)                                                               |
+| 2022-03-29 | [283. Move Zeroes](./leetcode/2022-03-29_283-move-zeroes.md)                                                                   |
+| 2022-03-29 | [605. Can Place Flowers](./leetcode/2022-03-29_605-can-place-flowers.md)                                                       |
 
 </details>
 

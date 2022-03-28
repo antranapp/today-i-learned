@@ -37,5 +37,5 @@ print(input2[0..<result2])
 
 var input3: [Int] = []
 let result3 = solution.removeDuplicates(&input3)
-print(input2[0..<result3])
+print(input3[0..<result3])
 ```

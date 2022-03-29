@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 134
+-   TILs: 137
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (27)</summary>
+<details><summary markdown="span">leetcode (29)</summary>
 
 | Date       | Title                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -171,6 +171,8 @@
 | 2022-03-29 | [27. Remove Element](./leetcode/2022-03-29_27-remove-element.md)                                                               |
 | 2022-03-29 | [283. Move Zeroes](./leetcode/2022-03-29_283-move-zeroes.md)                                                                   |
 | 2022-03-29 | [605. Can Place Flowers](./leetcode/2022-03-29_605-can-place-flowers.md)                                                       |
+| 2022-03-30 | [334. Increasing Triplet Subsequence](./leetcode/2022-03-30_334-increasing-triplet-subsequence.md)                             |
+| 2022-03-30 | [387. First Unique Character in a String](./leetcode/2022-03-30_387-first-unique-character-in-a-string.md)                     |
 
 </details>
 

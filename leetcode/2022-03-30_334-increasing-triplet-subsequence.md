@@ -7,6 +7,7 @@ tags: leetcode, algorithm, array
 # 334. Increasing Triplet Subsequence
 
 **Question Link**: https://leetcode.com/problems/increasing-triplet-subsequence/
+
 **Difficulty**: Medium
 
 ```swift

@@ -7,6 +7,7 @@ tags: leetcode, algorithm, array
 # 27. Remove Element
 
 **Question Link**: https://leetcode.com/problems/remove-element/
+
 **Difficulty**: Easy
 
 ```swift

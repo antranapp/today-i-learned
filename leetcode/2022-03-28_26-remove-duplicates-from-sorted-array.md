@@ -7,6 +7,7 @@ tags: leetcode, algorithm, array
 # 26. Remove Duplicates from Sorted Array
 
 **Question Link**: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
 **Difficulty**: Easy
 
 ```swift

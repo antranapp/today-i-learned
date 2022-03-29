@@ -7,6 +7,7 @@ tags: leetcode, algorithm, array
 # 605. Can Place Flowers
 
 **Question Link**: https://leetcode.com/problems/can-place-flowers/
+
 **Difficulty**: Easy
 
 ```swift

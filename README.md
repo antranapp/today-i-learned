@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 139
+-   TILs: 140
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (31)</summary>
+<details><summary markdown="span">leetcode (32)</summary>
 
 | Date       | Title                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -175,6 +175,7 @@
 | 2022-03-30 | [387. First Unique Character in a String](./leetcode/2022-03-30_387-first-unique-character-in-a-string.md)                     |
 | 2022-04-04 | [228. Summary Ranges](./leetcode/2022-04-04_228-summary-ranges.md)                                                             |
 | 2022-04-05 | [735. Asteroid Collision](./leetcode/2022-04-05_735-asteroid-collision.md)                                                     |
+| 2022-04-05 | [9. Palindrome Number](./leetcode/2022-04-05_9-palindrome-number.md)                                                           |
 
 </details>
 

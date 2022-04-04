@@ -1,6 +1,7 @@
 ---
 title: 735. Asteroid Collision
 createdAt: 2022-04-04T22:03:40Z
+tags: leetcode, algorithm, array
 ---
 
 # 735. Asteroid Collision

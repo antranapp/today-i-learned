@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 141
+-   TILs: 143
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (33)</summary>
+<details><summary markdown="span">leetcode (35)</summary>
 
 | Date       | Title                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -177,6 +177,8 @@
 | 2022-04-05 | [735. Asteroid Collision](./leetcode/2022-04-05_735-asteroid-collision.md)                                                     |
 | 2022-04-05 | [9. Palindrome Number](./leetcode/2022-04-05_9-palindrome-number.md)                                                           |
 | 2022-04-06 | [849. Maximize Distance to Closest Person](./leetcode/2022-04-06_849-maximize-distance-to-closest-person.md)                   |
+| 2022-04-07 | [209. Minimum Size Subarray Sum](./leetcode/2022-04-07_209-minimum-size-subarray-sum.md)                                       |
+| 2022-04-07 | [243. Shortest Word Distance](./leetcode/2022-04-07_243-shortest-word-distance.md)                                             |
 
 </details>
 

@@ -55,10 +55,10 @@ class Solution {
     }
     
     /// **Primary idea**:
-    ///     - We create a list to store the result res
-    ///     - If a new asteroid value is positive, we add to the list as it will never collide with ones in res
+    ///     - We create a list to store the result stack
+    ///     - If a new asteroid value is positive, we add to the list as it will never collide with ones in stack
     ///     - Else, we remove all the positive asteroids that smaller than the new value (negative)
-    ///     - Then add the new value to res if res is empty or the last element is also negative (as it already processed in the previous run)
+    ///     - Then add the new value to stack if stack is empty or the last element is also negative (as it already processed in the previous run)
     ///     - If we have two opposite asteroids of the same size, then remove the last one.
     /// **Time Complexity**: O(n)
     /// **Space Complexity**: O(n)

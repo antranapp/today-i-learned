@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 143
+-   TILs: 145
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (35)</summary>
+<details><summary markdown="span">leetcode (37)</summary>
 
 | Date       | Title                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -179,6 +179,8 @@
 | 2022-04-06 | [849. Maximize Distance to Closest Person](./leetcode/2022-04-06_849-maximize-distance-to-closest-person.md)                   |
 | 2022-04-07 | [209. Minimum Size Subarray Sum](./leetcode/2022-04-07_209-minimum-size-subarray-sum.md)                                       |
 | 2022-04-07 | [243. Shortest Word Distance](./leetcode/2022-04-07_243-shortest-word-distance.md)                                             |
+| 2022-04-11 | [189. Rotate Array](./leetcode/2022-04-11_189-rotate-array.md)                                                                 |
+| 2022-04-11 | [238. Product of Array Except Self](./leetcode/2022-04-11_238-product-of-array-except-self.md)                                 |
 
 </details>
 

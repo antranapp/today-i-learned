@@ -1,6 +1,7 @@
 ---
 title: 238. Product of Array Except Self
 createdAt: 2022-04-10T22:16:24Z
+tags: leetcode, algorithm, array
 ---
 
 # 238. Product of Array Except Self

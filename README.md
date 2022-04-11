@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 145
+-   TILs: 146
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (37)</summary>
+<details><summary markdown="span">leetcode (38)</summary>
 
 | Date       | Title                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -181,6 +181,7 @@
 | 2022-04-07 | [243. Shortest Word Distance](./leetcode/2022-04-07_243-shortest-word-distance.md)                                             |
 | 2022-04-11 | [189. Rotate Array](./leetcode/2022-04-11_189-rotate-array.md)                                                                 |
 | 2022-04-11 | [238. Product of Array Except Self](./leetcode/2022-04-11_238-product-of-array-except-self.md)                                 |
+| 2022-04-12 | [54. Spiral Matrix](./leetcode/2022-04-12_54-spiral-matrix.md)                                                                 |
 
 </details>
 

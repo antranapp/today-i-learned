@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 27
--   TILs: 146
+-   TILs: 148
 
 ## android 
 
@@ -96,7 +96,7 @@
 | 2020-04-18 | [Fix gh-pages rejection of new pushes](./github/2020-04-17_fix_github-pages-rejection-of-new-pushes.md)                                                                                                     |
 | 2020-05-06 | [Git Error: Could could not read Username for 'https://github.com': terminal prompts disabled](./github/2020-05-06_git-error-could-could-not-read-username-for-httpsgithubcom-terminal-prompts-disabled.md) |
 | 2020-05-28 | [Cancel Workflow Action](./github/2020-05-28_cancel-workflow-action.md)                                                                                                                                     |
-| 2021-04-29 | [Get the Pull Request Number in Github Actions](./github/2021-04-29_get-the-pull-request-number-in-github-actions.md)                                                                                       |
+| 2021-04-28 | [Get the Pull Request Number in Github Actions](./github/2021-04-29_get-the-pull-request-number-in-github-actions.md)                                                                                       |
 | 2021-05-16 | [Use working-dreictory for entire job](./github/2021-05-16_use-workingdreictory-for-entire-job.md)                                                                                                          |
 
 </details>
@@ -111,7 +111,7 @@
 | 2020-05-07 | [Workaround about SPM (Swift package manager) deal with Xcode 11.4 and Swift 5.2 with external static libraries. Adding an internal dynamic library to resolve static code duplication error](./ios/2020-05-06_workaround-about-spm-swift-package-manager-deal-with-xcode-114-and-swift-52-with-external-static-libraries-adding-an-internal-dynamic-library-to-resolve-static-code-duplication-error.md) |
 | 2020-05-12 | [Showing Touch symbol in iOS Simulators](./ios/2020-05-12_showing-touch-symbol-in-ios-simulators.md)                                                                                                                                                                                                                                                                                                      |
 | 2020-05-18 | [disable iOS simulator 'connect hardware keyboard' programmatically](./ios/2020-05-18_disable-ios-simulator-connect-hardware-keyboard-programmatically.md)                                                                                                                                                                                                                                                |
-| 2020-05-19 | [How do you manage and use “Many to many” core data relationships?](./ios/2020-05-18_how-do-you-manage-and-use-many-to-many-core-data-relationships.md)                                                                                                                                                                                                                                                   |
+| 2020-05-18 | [How do you manage and use “Many to many” core data relationships?](./ios/2020-05-18_how-do-you-manage-and-use-many-to-many-core-data-relationships.md)                                                                                                                                                                                                                                                   |
 | 2020-05-18 | [iOS XCUITest - Simulate hardware keyboard return key](./ios/2020-05-18_ios-xcuitest-simulate-hardware-keyboard-return-key.md)                                                                                                                                                                                                                                                                            |
 | 2020-05-22 | [Enable network mocks and more in UI Tests](./ios/2020-05-22_enable-network-mocks-and-more-in-ui-tests.md)                                                                                                                                                                                                                                                                                                |
 | 2020-05-22 | [UI Test deleting text in text field](./ios/2020-05-22_ui-test-deleting-text-in-text-field.md)                                                                                                                                                                                                                                                                                                            |
@@ -140,7 +140,7 @@
 
 ## leetcode 
 
-<details><summary markdown="span">leetcode (38)</summary>
+<details><summary markdown="span">leetcode (39)</summary>
 
 | Date       | Title                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -182,6 +182,7 @@
 | 2022-04-11 | [189. Rotate Array](./leetcode/2022-04-11_189-rotate-array.md)                                                                 |
 | 2022-04-11 | [238. Product of Array Except Self](./leetcode/2022-04-11_238-product-of-array-except-self.md)                                 |
 | 2022-04-12 | [54. Spiral Matrix](./leetcode/2022-04-12_54-spiral-matrix.md)                                                                 |
+| 2022-04-14 | [13. Roman to Integer](./leetcode/2022-04-14_13-roman-to-integer.md)                                                           |
 
 </details>
 
@@ -283,15 +284,16 @@
 
 ## swift 
 
-<details><summary markdown="span">swift (5)</summary>
+<details><summary markdown="span">swift (6)</summary>
 
 | Date       | Title                                                                                                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-05-01 | [Launching a command-line command from a macOS app](./swift/2020-05-01_launching-a-commandline-command-from-a-macos-app.md)                                                     |
 | 2020-05-13 | [How to add local Swift Package as dependency?](./swift/2020-05-12_how-to-add-local-swift-package-as-dependency.md)                                                             |
-| 2020-05-22 | [conversion from NSTimeInterval to hour,minutes,seconds,milliseconds in swift](./swift/2020-05-21_conversion-from-nstimeinterval-to-hourminutessecondsmilliseconds-in-swift.md) |
+| 2020-05-21 | [conversion from NSTimeInterval to hour,minutes,seconds,milliseconds in swift](./swift/2020-05-21_conversion-from-nstimeinterval-to-hourminutessecondsmilliseconds-in-swift.md) |
 | 2020-05-22 | [How to sleep for few milliseconds in swift?](./swift/2020-05-22_how-to-sleep-for-few-milliseconds-in-swift.md)                                                                 |
 | 2020-05-28 | [Push View programmatically in callback, SwiftUI](./swift/2020-05-28_push-view-programmatically-in-callback-swiftui.md)                                                         |
+| 2022-12-18 | [How to bring a running application window to front most?](./swift/2022-12-18_how-to-bring-a-running-application-window-to-front-most.md)                                       |
 
 </details>
 
@@ -308,7 +310,7 @@
 | 2020-05-13 | [HSHostingController, easily present fullscreen modals, safari, email, etc from SwiftUI](./swiftui/2020-05-13_hshostingcontroller-easily-present-fullscreen-modals-safari-email-etc-from-swiftui.md)                |
 | 2020-05-13 | [SwiftUI: How to implement a custom init with @Binding variables](./swiftui/2020-05-13_swiftui-how-to-implement-a-custom-init-with-binding-variables.md)                                                            |
 | 2020-05-14 | [3 Ways to React to @State Changes in SwiftUI](./swiftui/2020-05-14_3-ways-to-react-to-state-changes-in-swiftui.md)                                                                                                 |
-| 2020-05-15 | [Disable user interaction on SwiftUI View](./swiftui/2020-05-14_disable-user-interaction-on-swiftui-view.md)                                                                                                        |
+| 2020-05-14 | [Disable user interaction on SwiftUI View](./swiftui/2020-05-14_disable-user-interaction-on-swiftui-view.md)                                                                                                        |
 | 2020-05-15 | [How to instantiate PreviewProvider when View requires @Binding in initializer](./swiftui/2020-05-14_how-to-instantiate-previewprovider-when-view-requires-binding-in-initializer.md)                               |
 | 2020-05-15 | [HStack fill whole width with equal spacing](./swiftui/2020-05-15_hstack-fill-whole-width-with-equal-spacing.md)                                                                                                    |
 | 2020-05-15 | [Text aligment with custom frame](./swiftui/2020-05-15_text-aligment-with-custom-frame.md)                                                                                                                          |
@@ -379,7 +381,7 @@
 | Date       | Title                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------ |
 | 2020-05-01 | [Apply all suggested fixes using short keys](./xcode/2020-04-30_apply-all-suggested-fixes-using-short-keys.md)     |
-| 2020-05-14 | [Xcode 11 iOS 13 simulator freeze UITextField](./xcode/2020-05-13_xcode-11-ios-13-simulator-freeze-uitextfield.md) |
+| 2020-05-13 | [Xcode 11 iOS 13 simulator freeze UITextField](./xcode/2020-05-13_xcode-11-ios-13-simulator-freeze-uitextfield.md) |
 
 </details>
 

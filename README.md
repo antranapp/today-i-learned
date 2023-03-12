@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 27
--   TILs: 149
+-   Topics: 28
+-   TILs: 152
 
 ## android 
 
@@ -84,6 +84,16 @@
 | Date       | Title                                                                                           |
 | ---------- | ----------------------------------------------------------------------------------------------- |
 | 2020-05-02 | [Running a command-line dart script](./flutter/2020-05-01_running-a-commandline-dart-script.md) |
+
+</details>
+
+## git 
+
+<details><summary markdown="span">git (1)</summary>
+
+| Date       | Title                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------- |
+| 2023-03-12 | [How to disable git gpg signing?](./git/2023-03-12_how-to-disable-git-gpg-signing.md) |
 
 </details>
 
@@ -284,7 +294,7 @@
 
 ## swift 
 
-<details><summary markdown="span">swift (7)</summary>
+<details><summary markdown="span">swift (9)</summary>
 
 | Date       | Title                                                                                                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -295,6 +305,8 @@
 | 2020-05-28 | [Push View programmatically in callback, SwiftUI](./swift/2020-05-28_push-view-programmatically-in-callback-swiftui.md)                                                         |
 | 2022-12-18 | [How to bring a running application window to front most?](./swift/2022-12-18_how-to-bring-a-running-application-window-to-front-most.md)                                       |
 | 2022-12-29 | [How to get app icon from window processID on macOS?](./swift/2022-12-29_how-to-get-app-icon-from-window-processid-on-macos.md)                                                 |
+| 2022-12-29 | [How to get displayID from NSScreen on macOS?](./swift/2022-12-29_how-to-get-displayid-from-nsscreen-on-macos.md)                                                               |
+| 2022-12-29 | [How to open a video in Quick Time programatically on macOS?](./swift/2022-12-29_how-to-open-a-video-in-quick-time-programatically-on-macos.md)                                 |
 
 </details>
 

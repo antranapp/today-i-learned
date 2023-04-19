@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 28
--   TILs: 152
+-   TILs: 153
 
 ## android 
 
@@ -208,11 +208,12 @@
 
 ## macos 
 
-<details><summary markdown="span">macos (1)</summary>
+<details><summary markdown="span">macos (2)</summary>
 
 | Date       | Title                                                                                                                                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020-05-19 | [DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.](./macos/2020-05-19_db-browser-for-sqlite-db4s-is-a-high-quality-visual-open-source-tool-to-create-design-and-edit-database-files-compatible-with-sqlite.md) |
+| 2023-04-20 | [How to get Bundle ID of Mac application?](./macos/2023-04-20_how-to-get-bundle-id-of-mac-application.md)                                                                                                                                                                                                 |
 
 </details>
 

@@ -1,7 +1,7 @@
 # Today I Learned
 
--   Topics: 28
--   TILs: 154
+-   Topics: 29
+-   TILs: 155
 
 ## android 
 
@@ -74,6 +74,16 @@
 | Date       | Title                                                                                                                                         |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2021-05-21 | [why fastlane working directory different than what I set](./fastlane/2021-05-21_why-fastlane-working-directory-different-than-what-i-set.md) |
+
+</details>
+
+## ffmpeg 
+
+<details><summary markdown="span">ffmpeg (1)</summary>
+
+| Date       | Title                                                                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 2023-06-02 | [How to prepare QuickTime recorder for App Store Review?](./ffmpeg/2023-06-02_how-to-prepare-quicktime-recorder-for-app-store-review.md) |
 
 </details>
 

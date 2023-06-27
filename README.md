@@ -1,7 +1,7 @@
 # Today I Learned
 
 -   Topics: 29
--   TILs: 155
+-   TILs: 156
 
 ## android 
 
@@ -79,11 +79,12 @@
 
 ## ffmpeg 
 
-<details><summary markdown="span">ffmpeg (1)</summary>
+<details><summary markdown="span">ffmpeg (2)</summary>
 
-| Date       | Title                                                                                                                                    |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 2023-06-02 | [How to prepare QuickTime recorder for App Store Review?](./ffmpeg/2023-06-02_how-to-prepare-quicktime-recorder-for-app-store-review.md) |
+| Date       | Title                                                                                                                                                                            |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2023-06-02 | [How to prepare QuickTime recorder for App Store Review?](./ffmpeg/2023-06-02_how-to-prepare-quicktime-recorder-for-app-store-review.md)                                         |
+| 2023-06-27 | [How to create thumbnail image for all images inside a folder using Imagick?](./ffmpeg/2023-06-27_how-to-create-thumbnail-image-for-all-images-inside-a-folder-using-imagick.md) |
 
 </details>
 

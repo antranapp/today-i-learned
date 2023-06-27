@@ -14,6 +14,9 @@ ffmpeg -f lavfi -i anullsrc=r=44100:cl=stereo -t <duration> silent_audio.mp3
 
 # Add the silent audio track to the video
 ffmpeg -i SimRecorder_demo4_1080_output.mov -i silent_audio.mp3 -c:v copy -map 0 -map 1 -shortest SimRecorder_demo4_1080_with_audio_output.mov
+
+# Change Framerate
+ffmpeg -i SimRecorder_demo4_1080_with_audio_output.mov -filter:v fps=30 SimRecorder_demo4_app_store.mov
 ```
 
 ```shell
